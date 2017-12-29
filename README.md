@@ -28,7 +28,7 @@ Simply notices:
 
 <p>2、原游戏中存在严格的系统版本、语言的限制，本项目中已经将该限制去除，并在简体中文环境下制作。</p>
 <p>2. Original version of this game was restricted to the edition and language of OS. This project removed them and was based on  simplified Chinese environment.</p>
-<p>2. 原作では、厳重なるOSのバージョンと言語を制限しています。本プロジェクトはその制限を解除し、簡体字の環境で作成しました。</p>
+<p>2. 原作では、厳重なるOSバージョンと言語の制限がかけています。本プロジェクトはその制限を解除し、簡体字の環境で作成しました。</p>
 
 ***
 
@@ -52,4 +52,4 @@ Simply notices:
 
 <p>6、本项目默认仅为Windows版本，如果你想编译Android或iOS版本的话，请参照官方文档进行操作。</p>
 <p>6. This project is only for Windows by defalut. Please reference to official document if you need to complie Android or iOS version.</p>
-<p>6. 本プロジェクトはWindowsのみ向いています。AndroidかiOSバージョンがコンパイルしたいのなら公式ドキュメントを参考してお願いします。</p>
+<p>6. 本プロジェクトはWindowsのみ向いています。AndroidかiOSバージョンがコンパイルしたいのなら公式ドキュメントを参考してください。</p>
