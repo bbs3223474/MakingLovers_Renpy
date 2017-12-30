@@ -21,8 +21,8 @@ Simply notices:
 ----
 
 <p>1、本项目所涉及的开发，包括封包解压、脚本解密、资源文件使用、和内容修改均未获得SMEE公司及相关人员的参与和许可。本项目仅用于学习，严禁以任何形式重新加密、打包、二次出售！</p>
-<p>1. The development of this project including archive unpacking, script decription, resource using, and content modification were not being participated and approved by SMEE corporation and its staff. This project is only for study purpose. Any sort of re-encryption, repack and resell were STRICTLY FORBIDDEN!</p>
-<p>1. 本プロジェクトに関する開発、及びアーカイブの開封、スクリプトの明文化、リソースファイフの使用、ゲーム内容の改ざんはSMEE社とその関係者の参加と許可を得られていません。本プロジェクトは勉強のためだけですので、いかなる形の再暗号化、リパーク、再発売行為は絶対禁止されています。</p>
+<p>1. The development of this project including archive unpacking, script decryption, resource using, and content modification were not being participated and approved by SMEE corporation and its staff. This project is only for study purpose. Any sort of re-encryption, repack and resell were STRICTLY FORBIDDEN!</p>
+<p>1. 本プロジェクトに関する開発、及びアーカイブの抽出、スクリプトの明文化、リソースファイフの使用、ゲーム内容の改ざんはSMEE社とその関係者の参加と許可を得られていません。本プロジェクトは勉強のためだけですので、いかなる形の再暗号化、リパーク、再発売行為は絶対禁止されています。</p>
 
 ***
 
@@ -34,7 +34,7 @@ Simply notices:
 
 <p>3、用于解密游戏脚本的工具由xupefei开发，由我的好友huaying1988.com修改并编译，感谢他们的辛勤努力。</p>
 <p>3. Script decripting tool was developed by xupefei, modified and compiled by my friend huaying1988.com. Thanks to their hard work.</p>
-<p>3. スクリプト解析用のツールはxupefeiさんが開発し、私の親友huaying1988.comが手入れてコンパイルしました。彼らの努力に心からの感謝を贈りします。</p>
+<p>3. スクリプト解読ツールはxupefeiさんが開発し、私の親友huaying1988.comが手入れてコンパイルしました。彼らの努力に心からの感謝を贈りします。</p>
 
 ***
 
@@ -53,3 +53,9 @@ Simply notices:
 <p>6、本项目默认仅为Windows版本，如果你想编译Android或iOS版本的话，请参照官方文档进行操作。</p>
 <p>6. This project is only for Windows by defalut. Please reference to official document if you need to complie Android or iOS version.</p>
 <p>6. 本プロジェクトはWindowsのみ向いています。AndroidかiOSバージョンがコンパイルしたいのなら公式ドキュメントを参考してください。</p>
+
+***
+
+<p>7、本项目目前并未取得实质性进展，因为原作采用立绘图像分离的做法（身体、面部表情分离），暂未拥有很好的方法将立绘重新合并或在Ren'py中运用坐标系进行实时整合。</p>
+<p>7. None of the substantial progress has been made on this project due to the separation character images (separated body and facial expression images). For now there is no good way to re-combine them or using coordinate function to combine in Ren'py real time.</p>
+<p>7. 本プロジェクトは未だに実質的な進展はしていません。これは原作の中で立ち絵ファイルが分離しているのため（ボディー、表情ファイルが分離）、それらを再びコンバインするか、座標関数を使ってRen'pyにリアルタイムで統合するのにあまりいい方法がまだ見つかっていません。</p>
