@@ -1,0 +1,442 @@
+jump
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+_BS5HExit
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+WaitForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+CallScriptForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+EnableWindow
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+FButtonWait
+return
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+bgm0
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+mk_bgm_01
+_PlayBGM
+scene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+ML_BG_60A
+_DrawScene
+EnableWindowEx
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「おーいレイナ、掃除してたら昔の雑誌出てきたぞ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5087
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「えー。や、やめてよ……今見ると私結構本気で恥ずかしいんだけど……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナに背中を押され、例のシンガポールでキャリアを積んでから数年。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+俺は日本に帰ってからすぐにレイナと籍を入れた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+海外での生活は思っていた以上に刺激に溢れ、たった一年とはいえ俺の人生にとっても非常にいい経験になった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+今は日本にある叔父さんの事務所を借りていて……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+結局俺はフリーランスという形で、毎回自分で案件を取ってきては、それを一生懸命にこなす生活をしている。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「そういえばお前、最近仕事の調子はどうなんだ？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5088
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「調子？　うん、特に問題ないよ？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5089
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「私もともとこの仕事には向いてるみたいで、今はなるべく早く宅建の資格が取れるよう勉強してる」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「お前ってホントすごいよな」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「俺が帰ってきたらスパッとモデルの仕事辞めて主婦になっちまうし」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「娘が生まれたら、今度は自分への投資だぁぁ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「とか言って、子育てとパートも平気な顔して両立してるし」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5090
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「あ、あはは……私思い立ったらすぐに行動しないと気が済まないタイプだから……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナの親父さんは不動産会社を経営している。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+それは前から知ってたけど、今度は主婦の身でその道に片足を突っ込むなんて、我ながら本当にアクティブな女性だと本気で思う。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 娘
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+REEV_08A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+W73_5001
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+娘
+「これ……！　これすごい！　ママなの……！？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「そうだぞ～？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「この半裸と何も変わらない薄着でな、当時は脇まで見せて世のレイナチルドレン共から多額の金を搾取していたんだ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「モデルだけじゃなく、ソーシャルアプリとのコラボ、コスメグッズ、あとはファッションブランドにまで手を出してたな」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「お前のママはな？　今はこうして平凡な主婦を装ってはいるが、本当は裏で多額の現金を動かしまくる魔性の女なんだ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5091
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「そうよ～？　そしてあんたはそのママの血を引いてるんだから」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5092
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「これから幼稚園を卒業して、早いとこ他人を顎で使い倒せるようになりなさ～い？」
+voice0
+PrintMessage 娘
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+W73_5002
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+娘
+「すげー！　私も顎で人を使ったら、いっぱいお金稼げる？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナと俺、そして娘のエマと一緒に、昔俺の嫁が活躍してた雑誌をこの場でゆっくりとめくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+今ではこの雑誌も名前を変え、あの小森さんが出世したことで新たなファッション誌へと生まれ変わった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+代表になっても小森さんは相変わらず俺たちに腰が低く……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+月末になると酒と一緒に、今発行中の最新号をこの家に持ってきてくれることもある。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「なあレイナ。もしかしてエマのやつ、今からモデルに興味津々なんじゃないのか？」
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+REEV_08A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5093
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「あはは、それはないでしょ、だってこの子まだメイクだってした覚えないのに」
+voice0
+PrintMessage 娘
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+W73_5003
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+娘
+「したよ？　この前パパと一緒に」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5094
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「えー？　それ本当なの？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「ああ、本当だ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「なんかお前の留守中に、エマがリップ引っ張り出して顔に塗ってたからさ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「見てて面白かったから、俺もそれなりに手伝ったんだ。写真ならあるぞ？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5095
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「もう、２人とも。私が仕事行ってる間にそんなことして遊んでたの～？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+俺とレイナは出会った頃以上にラブラブだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+子供が出来ても夫婦熱が冷めることはなく、俺は本当にいい意味で理想の家庭を手に入れたと思っている。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5096
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「いい？　エマ。オシャレにはお金がいっぱいかかるの」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5097
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「髪に、服に、コスメや食べるものにも気を遣わないと、売れっ子モデルになんてなれないんだから」
+voice0
+PrintMessage 娘
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+W73_5004
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+娘
+「じゃあ、これからいっぱいパパに稼いでもらう」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+ええ！？
+SetValidityOfAutomaticWindowDisabling
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+REEV_08B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5098
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「ふふっ、ほらほら、早速エマったら男を顎で使い始めた」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「た、頼む！　他の男は好きに使ってくれてかまわないが、俺だけには一生優しくしてくれエマぁぁ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+突拍子がないと見せかけて、実は地に足のついた生活を望んでいた俺の嫁、レイナ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+俺たちは今日もこうして、家族３人幸せな生活を送っている。
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+REEV_08A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5099
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「ねえ、あなた」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「ん？　どうした？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5100
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「私がもしまたモデルの道に復帰したら、そのときは素直に応援してくれたりする？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「うーん……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+そうだな……
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「多分応援はしないで、全力で引き留めるかもしれない」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5101
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「え？　そうなの？　何で？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「カリスマ主婦モデル！　なんて言って人気が爆発してみろ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「そうなったら俺もエマもこうしてお前にベッタリ出来ないからな」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「いくらお前がやりたいと言っても、そこだけは俺もう我慢出来ないかもしれない」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+REEV_08B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5102
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「ふふっ、大丈夫大丈夫♪　そこは安心して？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5103
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「私はもうあなたのお嫁さん一直線だから。エマの母でもあるわけだし……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5104
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「これからも私たち、ずっと一緒よ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「お、おう」
+scene
+voice0
+PrintMessage 娘
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+REEV_08A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+W73_5005
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+娘
+「パパとママ、ラブラブ～♪」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+本当の幸せとは、こうしたごく普通の家庭の中にこそあるのかもしれない。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+俺たち２人は今も自分たちを支えてくれる人に恵まれながら……
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+主人公（名）
+「レイナ、愛してるぞ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+RE_5105
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+レイナ
+「うん、私も……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+こうして今日も、家族３人の時間をゆっくりと楽しんだのだった。
+SetValidityOfAutomaticWindowDisabling
+disableinput
+DisableWindowEx
+SoundStopAll
+bg
+sprite0
+sprite9
+scene
+wait
+enableinput
+wait
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+SoundStopAll
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+ex_bg_02a
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+WHITE
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+WHITE
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_ep.bs5
+_Wait
+_BS5HExit
+FButtonWait
+COM_END
+指定されたラベルは見つかりませんでした。

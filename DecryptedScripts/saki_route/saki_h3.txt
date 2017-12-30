@@ -1,0 +1,1506 @@
+jump
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+_BS5HExit
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+WaitForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+CallScriptForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+EnableWindow
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+FButtonWait
+return
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+bgm0
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+mk_bgm_21
+_PlayBGM
+scene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12A
+_DrawScene
+EnableWindowEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SetValidityOfAutomaticWindowDisabling
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+voice0
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1781
+_PlayVoice
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ほ、本当に、鏡の前でするの……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「うん、咲さんが普段通りしている感じでいいよ？　俺見たいんだ、咲さんのオナニー」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1782
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「も、もう……本当にエッチなんだから……わ、私……普段は鏡の前でなんて……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「じゃあどこでしてるの？　ベッド？　それともバスルーム？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1783
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「そ、それは……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「ほら、早速手が止まってるけど」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1784
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「うっ、ううっ……仕方ないんだから……普段はこんなこと、してないんだからね……？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+そう言うと、顔を赤くした咲さんが鏡の前でオナニーをしてくれる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+オナニーを見せるという行為に恥じらいを感じながら、鏡の前でショーツ越しに秘部を弄る咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+小さく俺に聞こえないような声で、初めは大人しそうに声を出しはじめる。
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1785
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「んっ、ふぅんっ、んっ……んんっ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「遠慮しなくていいよ？　気持ちよかったらもっと喘いじゃって」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「ほら、ここには俺しかいないわけだし」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1786
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ば、ばか……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1787
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、んっ……くふぅっ……んっ、んんっ……はあ、はぁ……んっ……」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+最初はゆっくり、そして軽く。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲さんの白い指がその可愛いショーツの上から秘部を愛撫する。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+鏡越しにじっくり観察してみると、その指は若干彼女の中心に食い込み……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+そこからはしっとりと、愛液が染み出ているのがこちらからでも確認できた。
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1788
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、ああっ……んっ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「どう？　咲さん。俺に見られながらするオナニーの感想は……？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1789
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「んっ、んっ、あっ、んふぅ……み、見ないでぇ……？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1790
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「もう嫌……んっ、わ、私……顔から火が出ちゃいそう……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+恥ずかしいと言っているにも関わらず、明らかに興奮している様子の咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+俺に見られながらも、次第にその指は積極的に自分の股間を慰めはじめていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+気がつけばショーツにも、そしてその指にも彼女の愛液が絡みついている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+今朝エッチしたときも思ったけど、咲さんは感じると途端に濃い透明な愛液をそこから出してくれる。
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1791
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、いやぁ……んっ、んふぅ……どうして……？　どうしてこんなに私……んあぁっ……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1792
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「こんなに感じちゃってるの……？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1793
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あなたに……んっ、これ、見られているだけで……はぁ、はぁ、くふぅ……こんなに……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「はいはい、一人で盛り上がらない」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「まずこれって何これって」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1794
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「んっ、んんっ……い、いじわる……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「ダメだよちゃんと言ってくれないと。そのまま指動かすの禁止にするよ？」
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1795
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「………」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1796
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「お、オナニー……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「え？　全然聞こえないけど」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1797
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、んんっ……！　お、オナニー……！　自分で、んっ、はぁはぁ、こうして指で弄ってるのぉ……！」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+そこまで言うと羞恥心も吹き飛んだのか、そのまま自らの欲望にまかせて股間を弄る咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+いつもは上品な彼女が見せる、このいやらしい光景は……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+ショーツからあふれ出る愛液も相まって、本当に俺の性欲を煽るのに十分だった。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「す、すごいね咲さん。そんなに感じてるんだ」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1798
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あぁぁっ、見ないでぇ……見ないでぇ……！　んっ、んっ、あぁぁっ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「咲さんの匂い、ここまでするよ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「今からでも、こっちが舐めにいきたいくらいだ」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1799
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「はぁはぁ……な、舐める……？　舐めてくれるのぉ……？　んあぁぁッ……！　んんっ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+まだショーツ越しにも関わらず、咲さんの股間は愛液でぐちょぐちょだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+透明な愛液が彼女のショーツと秘部の間をすべり、その度に咲さんはビクビクと思わず腰を上下に揺らしている。
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1800
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「はぁ、はぁ……恥ずかしぃ……んっ、はぁぁ、もう私、んんっ、恥ずかしくて死んじゃいそう……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「だったらもっと恥ずかしいところ見せてよ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「咲さんだって、もう直接指で弄りたいんでしょ？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1801
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ば、馬鹿ぁ……んっ、変態……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+少し涙目になりながら、それでも自慰をやめようとしない彼女の指。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+ついに欲望に負けたのか、おずおずと自らショーツを脱ぎ始めてしまう。
+DisableWindowEx
+SetValidityOfAutomaticWindowDisabling
+se0
+scene
+EnableWindowEx
+SetValidityOfAutomaticWindowDisabling
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+Cloth-Russle_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1802
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「はぁはぁ……いや……んっ、私、こんなに感じてるの……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「す、すごい……咲さんのそこ、そんなに糸垂らして……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1803
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「み、見ないで……？　ね？　お願い……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1804
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ここから先は、本当に私……んっ、んんっ……！　あなたにだけは、見られたくない……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+その言葉は本心だろう。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+直前まで動かしていた指を一時的に止めている咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+それでもここまで興奮してしまった彼女の体は、もうオナニーを止める術が無いに等しい。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「お願いだから見せてよ。咲さんのもっと感じてるところ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「俺とキスして、愛撫されて……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「この間みたいに、俺から散々抱かれている自分の姿を想像してさ……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1805
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、はぁん……！　んっ、んぐっ……！　だ、ダメ……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1806
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「お願い……お願いだから……これ以上私に恥ずかしい思いさせないで頂戴……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「でももう、咲さん自分で直接弄ってるけど」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+俺の言葉通り、既に我慢など出来ようはずもない咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+人差し指と中指を器用に使い、クリトリスから膣内の浅い部分をピンポイントに愛撫していく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+時には激しく、そして時には優しくいたわるように……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+その指先の繊細な動きと、緩急の付け方は……
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1807
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、んっ、んあぁぁ！　はぁはぁ、んっ、くふぅ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+（こ、この人……ホントに手慣れすぎだろ……）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+俺も目の当たりにして、思わず息を呑んでしまうほどに。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲さんの手つきは、まさにオナニー慣れした人のそれだった。
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1808
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、んっ、んんっ、見ないでぇ……？　お願いもうこれ以上は見ないで欲しいのぉ……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1809
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ごめんなさい、私、んっ、んっ、はぁぁ、はぁぁ、あなたと会う前にも……んっ、時々、こうやって……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「ずっと一人で自分の気持ちいいところ、必死に慰めてたんだ」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1810
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ええ、ええ……！　んっ、ひゃうっ……！　あっ、あっ、気持ちいい……！　気持ちぃぃ……！」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+一体何が原因でスイッチが入ってしまったのか。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+彼女からは完全に羞恥心が消え、気がつけば軽くヨダレを垂らしながら腰まで前後に振ってしまっている。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「もしかして、今朝のセックス思い出してる？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1811
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「うん……！　うん……！！　ああぁぁっ、んっ、あっ、あっ、あっ、あっ、んん……！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1812
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「欲しい……欲しいの……！　いじわるなことばっかり言わないで……早くあなたの大きいの……！　ここに頂戴……？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1813
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「じ、自分の指じゃ……ひゃうっ！　もう物足りないの……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1814
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あなたの、太くて固いおちんちん……んっ、んっ、あぁぁ……！　知っちゃったから……！　ああぁぁん……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+（や、ヤバい……！　マジで挿れたくなってきた……！！）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+クリトリスを愛液と一緒に愛撫し続け、気がつけば中指と薬指をしっかり奥の方へ挿入していた咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+膣内はそれを男根だと勘違いしているのか、入り口はさらにぐちょぐちょに、愛液が垂れているのが本当にエロくて興奮する。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12G_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「咲さん、俺の欲しいの？　どこに？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1815
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、んんッ、ふぁぁぁっ！！　こ、ここ……！　ここに欲しいのぉ……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1816
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ぐ。ぐちゅぐちゅってぇ……！　あっ、あっ、んんッ！！　あなたのおちんちんで……！　私の中をたくさん満たして……！！」
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1817
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あああああぁぁぁッ！！　だ、ダメッ！　イッちゃう！　イッちゃうッ……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1818
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「わ、わらひ……！　このままあなたの前で、だらしなく一人でオナニーで……！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1819
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、ああぁぁッ……！！」
+wait
+StartShakingOfWindowSx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1820
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ふあぁぁああああああああああああああああッ……！！」<
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+sprite0
+scene
+quakeex
+sprite0
+sprite0
+wait
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+そのまま高速で指を動かし、膣内を乱暴に弄り倒す咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+今ので絶頂に達したらしく、膣の入り口からは透明な液体が、一瞬だけ遠くに跳ねたのがここからでもハッキリと見えた。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1821
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「はぁ……はぁ……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1822
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「い、イッひゃっは……わらひ……こんな格好で、一人で……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「咲さん、めっちゃエロいよ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「まさか普段からこんなにオナニーでイッてるとか……？」
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12I_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1823
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「はぁ、はぁ……ごめん……なさい……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1824
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「私……昔から勉強している最中とか……に、気がついたら一人で……弄っていることが多くてぇ……んっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+まだ物足りないのか、咲さんの大陰唇がヒクヒクと再び愛液を垂らしはじめる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+そのまま指でオナニーの余韻に浸りながら……
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_12I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1825
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ねえ、もうパンパンなんでしょう……？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1826
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あなたのおちんちんで……私のこと、もっと満足させて……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+それが、俺が咲さんを襲うこの場での合図になった。
+DisableWindowEx
+scene
+wait
+scene
+DisableWindowEx
+StartShakingOfWindowSx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1827
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「んあぁああああああああぁぁッ……！！」<
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1828
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「は、入ってくる……！　入ってくるのぉ……！！　あなたのこれが……やっと私の中にぃぃ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「ぐっ……！！　あぁぁッ！　さ、咲さん……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「膣内、愛液でとにかく熱くなってて……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1829
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「は、早くぅ……！　早くぅ……！　いっぱいいっぱい、奥までたくさんあなたので突いてぇ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+驚くほどセックスに積極的になっている咲さん。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+やっと挿入してもらえた喜びからか、完全に欲情しきって俺のペニスを下の口でずっぽりと咥えている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+入り口はキュッと締まり、そこから奥は今にも射精をさせようと、咲さんの膣壁と濃い愛液が……
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「う、あぁぁ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+これでもかと俺のペニスに絡みつき、彼女の腰の動きがさらに俺を射精させようと必死に動く。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1830
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あんっ、あんっ、あんっ、いいっ……！　いいのぉ……！　お、おちんちん……！　おちんちん……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+（きょ、今日の咲さん、初めてエッチした時より明らかに　エロくなり過ぎだろ……！！）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+俺のことなど全く考えず、今の彼女は自らへの快楽にしか頭が働いていない様子。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+何度も俺の腹の上で腰を振り……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+普段の彼女が持っている羞恥心が信じられなくなるほど……とにかく今の咲さんは俺のペニスに夢中だった。
+SetValidityOfAutomaticWindowDisabling
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1831
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あぁぁんッ！　あっ、あっ、んっ、いい……！　おちんちん！　んんっ。あなたのおちんちん固いのぉ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「さ、咲さんすごいね……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「そんなに腰を豪快に振ったら、肛門も全部何もかも、俺に丸見えになって……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1832
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あんっ、あんっ、はぁはぁ、あなた……んっ、私の……お尻の穴に興味あるの……？　んっ……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1833
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「そんなの……好きなだけ見ればいいじゃない……！　あああぁぁ……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1834
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「それよりもっと奥まで突いて頂戴……？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1835
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ちゃんとあなたのかたーいおちんちんで……あっ、あっ、んっ、私のこと、満足させてくれなきゃ嫌なんだから……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+そのまま腰を振り続けるも、咲さんの様子が少し変わる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+経験からではなく本能でやっているのか……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲さんは自分の重心が直接接合部に来るように、体を再度傾け直し、さらに俺のペニスで快感を得ようと腰を振り続ける。
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1836
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あ、ああぁぁぁっ！！　いい！！　んっ、んっ、ああぁぁ！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1837
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「んっ、んっ、い、いいのよぉ……？　もう出したいんじゃない……？　大丈夫……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「はあはあ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「だ、大丈夫……ま、まだまだいける……はず……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「……！？　ちょ、ぁぁぁッ！？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1838
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「んふぅ……可愛い……本当はもう出したくて出したくて、仕方ないんじゃない……？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1839
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あなたの先っぽ……んっ、あぁぁっ、こ、こんなに膨らんでいるもの……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1840
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「もっと私のこと、好きに犯したいんでしょう？　もっとたくさん奥まで突いて……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1841
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、んんッ……！　こんな風に……はあはあ、私のこともっともっとイかせたいんじゃなくて……？」
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1842
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、いい！！　いいの……！！　そうよ！　その調子……！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1843
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あんっ、あんっ、あんっ、ふあぁぁっ！！　固い……！　固いの……！！　もっともっと、奥まで私をいじめてぇ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+下から強く突き上げ、咲さんの要望通り奥まで自分のペニスをねじ込んでいく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+突き上げれば突き上げるほど、本当に膣奥が喜ぶかのように震え……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+彼女の股から分泌される愛液の量も、目に見えて増えていくのがわかる。
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1844
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、もっとぉ、もっといじめてぇ……！　わ、わらひの奥まで……！　あなたの、おちんちん……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「はぁはぁ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「咲さん……！　咲さん……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+もう我慢の限界だった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+ただでさえ挿れた瞬間からイキそうになってしまったのに……
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+（こ、これ……！　本当に癖になりそうだ……！）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+淫乱モードの咲さんを前に、俺はもう残りの時間、射精することしか頭に入ってこなかった。
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1845
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あんっ、あんっ、んんっ……！！　イイッ！！　いいのぉ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「本当に、こんなんで満足なのか？」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1846
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「え……？」
+scene
+StartShakingOfWindowSx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1847
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あああああぁぁぁぁッ！！」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+大事な彼女に対し、ついに乱暴なセックスを始めてしまう。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+ただ気持ちいい、射精したい。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+もっともっと乱れた咲さんの姿が見たい一心で、俺はまるで動物のように下から高速で突き上げる。
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1848
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あ、あがぁっ、え、え、えっ……！？　な、何これぇぇ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「さ、咲……！　咲ィ……！！」
+scene
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1849
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あっ、あっ、んああっ……！！　ら、らめえぇぇ！！　らめぇぇぇ！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1850
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「こ、これ以上おちんちん……！！　いっぱい、いっぱいずぅぅんってされたらぁ……！　わ、わらひ壊れひゃう壊れひゃうのぉ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+興奮の証か、それとも絶頂前の準備なのか。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲さんの乳首は大きく勃起し、全身の性感帯をフルに使って、俺からの快感をとにかく一身で味わおうとしている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+こ、このままじゃ俺も我慢出来ない……！！
+SetValidityOfAutomaticWindowDisabling
+InitializeSelectedItem
+select
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+中に出す
+外に出す
+_SelectEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1851
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ら、らめぇ！！　イッひゃうっ！！　わらひイッひゃうのぉ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「いいよイッて！！　そのままイけよ……！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1852
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あ、あっ、あぅぅ……！！　あうぅ……！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1853
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「い、イクイクイク……！！　ア！！　らめぇ！！　イ、イク！！　イッひゃッ……！！」
+StartShakingOfWindowSx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1854
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ふあぁぁぁぁぁぁぁぁぁぁぁああああああああああッ！！」<
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+StartShakingOfWindowSx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「うっ、あぁぁああああッ！！」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+今まで感じたことのない虚脱感が全身を襲ってくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+睾丸が何度も収縮し、俺の性器からはとにかく濃い子種の汁が……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲さんの子宮へと容赦なく吐き出されていく。
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1855
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あぁぁ！！　あぁぁっ……！！　あ、熱い……！！　熱いわあなたのが……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「す、すげぇ……全然、止まらない……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+何度も射精を続け、ようやく今になって勢いが収まる。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1856
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「はぁ……はぁ……んっ……す、すごいのね……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1857
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「私こんなに出されちゃったら……本当に、子供出来ちゃうわ……きっと……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「あ、あふれてきてる……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1858
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「んっ……中に出してもらえると、何故か私、安心するの……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1859
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「はぁはぁ……私、このままエッチが好きになったら、絶対にあなたのせいなんだから……」
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+こうして、エッチ後は崩れ落ちるようにベッドに突っ伏す俺たち２人。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+セックス後の余韻に浸りつつも、まずは全身汗まみれの体をなんとかしようと奮い立った。
+bgm0
+DisableWindowEx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeBGM
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+COM_END
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1851
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ら、らめぇ！！　イッひゃうっ！！　わらひイッひゃうのぉ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「いいよイッて！！　そのままイけよ……！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1852
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あ、あっ、あぅぅ……！！　あうぅ……！！」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1853
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「い、イクイクイク……！！　ア！！　らめぇ！！　イ、イク！！　イッひゃッ……！！」
+StartShakingOfWindowSx
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1854
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ふあぁぁぁぁぁぁぁぁぁぁぁああああああああああッ！！」<
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+StartShakingOfWindowSx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「うっ、あぁぁああああッ！！」<
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SAEV_13J
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+射精する瞬間、思わず腰を引いて外に出す。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+俺のペニスの先端から、勢いよく飛び出す白い精液。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+一度だけで止まることはなく、驚くほどの勢いで彼女の全身を大きく汚してしまう。
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1860
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「あ、あぁぁぁ……熱い……すごい出るのね……んっ、んんっ……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1861
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ここまで……あなたの精液の匂いするの……はぁ、はぁ……ダメね……私また興奮しちゃいそう……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+主人公（名）
+「さ、咲さん……」
+voice0
+PrintMessage 咲
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SA_1862
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+咲
+「ふふっ……軽蔑しちゃった……？　私のこと……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+精液まみれの彼女の体。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+俺はそんな姿のまま微笑む咲さんを、もう一度抱いてしまいたくなるほどドキドキしながら見つめていた。
+bgm0
+DisableWindowEx
+scene
+SoundStopAll
+clear
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeBGM
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+SoundStopAll
+F:\BURIKOScriptSystem\MakingLovers\Script\530_[scenario]咲\saki_h3.bs5
+_FadeScene
+_BS5HExit
+FButtonWait
+LABEL_IN
+LABEL_OUT
+COM_END
+指定されたラベルは見つかりませんでした。

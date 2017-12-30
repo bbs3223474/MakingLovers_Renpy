@@ -1,0 +1,2467 @@
+jump
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+_BS5HExit
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+WaitForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+CallScriptForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+EnableWindow
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+FButtonWait
+return
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+bgm0
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+mk_bgm_21
+_PlayBGM
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+START_H
+scene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ML_BG_07A_9
+_DrawScene
+se0
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Cloth-Russle_02
+_PlaySE
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺がズボンを下ろすと、ましろはまたやさしく俺のものへ触れてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+この前覚えたのか、逆手でやさしく握って上下に動かしてくる。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2440
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「硬い……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そう、というわけで……はい」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2441
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「胸で……ってどうすればいい？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「胸でこう、挟んで動かすっていうか……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「とりあえず、脱がすよ」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2442
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「っ……！」
+se0
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Cloth-Russle_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺は抑えきれない好奇心から、強引にましろの胸元をこじあけた。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2443
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「こう？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そうそう、そんな感じ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+机の上に座った俺に、ましろは両手で胸を寄せて覆いかぶさってくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そのまま谷間にこいつを」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2444
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「う、うん……」
+se1
+scene
+SetValidityOfAutomaticWindowDisabling
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+kinuzure_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うおぉ、あったけぇ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+陰茎をましろのやわらかい胸が包み込んだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+膣内とは違うやわらかな気持ちよさに、またそれは一層硬さを増して膨れ上がっていく。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2445
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「うぁ……あなたの……むくむくってまた……」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2446
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「今日はおっぱいとＨするの？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「まあそんなとこ」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2447
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「知ってる。これ、パイズリ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「おお……知っているのか。どこでそんな知識を……！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2448
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あなた、前もおっぱい触ってたから……どうしたらいいかと思って」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「まさか……誰かに相談したんじゃ……？」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2449
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ち、違う！　知恵袋で調べた」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+情報化社会恐るべし……。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2450
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「そっか。ふふっ、でもこうするのが……いいの？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ぎゅっと胸を寄せて、締め付けを強くする。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2451
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「こう？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うん、そのまま動かして」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2452
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「動かす……こんな、感じ？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+慣れない動きで戸惑いながら、ましろは身体ごとゆっくり上下に動き始めた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ああうん、気持ちいい」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2453
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「そっか……こう、か……」
+DisableWindowEx
+scene
+bg
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+またひとつ新しいことを覚えたと楽しげにペニスの様子を見つめる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ゆっくり丹念に滑らかな肌で竿を刺激され、俺は気分的にも満たされていく。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「こう、なんていうか……奉仕されるのも男としては気分がいいね」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2454
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「奉仕……なるほど」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2455
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「男性を満足させるには、技術だけでなく気持ちよくさせるという意思を伝えることが大切……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そう」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2456
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「胸を見るという視覚情報も大切。また勉強になった」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろがどんどん俺の喜ばせ方を覚えていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+それがたまらなく嬉しかった。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろは俺の女だからな」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「どんなにエロくなろうと、俺以外とはこういうことをしちゃだめだぞ？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2457
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「当たり前。もう私はあなたのもの」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2458
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あなたも、私のもの」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そゆこと」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2459
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっ、あっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+隠れている乳首を親指でくりくりと押し込んで刺激する。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+相変わらず超やわらかいな……。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2460
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「乳首……触られると、なんか……んっ、変な……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「変な感じする？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2461
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ん……。なんか脇のあたりがゾクッてして……変な感じ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「気持ちいいのとは違う？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2462
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んー……わからない。でもなんかエッチな気分になってくる気がする」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ってことは、一応気持ちいいのかな？
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そっか。じゃあもっと触らないとな」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2463
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「もう……。あっ、んぅ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「おお、ほら。少し立ってきた」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2464
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「やっ、んっ……あっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+執拗に乳首を責めると、ましろは顔にかかった前髪を指で直しながら俺に救いの眼差しを送る。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2465
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっ、あっ、他……は？　どうしたらいい？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そうだなぁ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ちょっとツバ垂らしてみて」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2466
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「え、ええ……？　べとべとになるよ……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「それがいいの」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2467
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「そう……」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろは半信半疑に小さく口を開けて、唾液の糸を垂らした。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+まず尿道口に当たり、それからましろは器用に舌を動かして全体にも垂らしていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+独立した意思があるかのごとく、自然と陰茎が繰り返し上下に揺れた。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2468
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「これれいぃ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うん、すげえエロい」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2469
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「唾液が潤滑剤？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そう。まあ、あとは気持ちの問題」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2470
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「また気持ちの問題……。なるほど……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2471
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「男性は女性が気持ちよくさせようと献身的に努力する姿が好き……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「それはあると思う」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+尽くされてる感じが嫌いな人はそうそういないだろう。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2472
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あとはやっぱり……男の人はみんな唾液が好き？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「それはたぶん違うぞ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+まあ俺は好きだけど。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「口から液体を垂らすのが見た感じエロいからじゃね？」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2473
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「なるほど……これも視覚情報……覚えた」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ひとつひとつ彼氏の性癖をインプットしていくましろ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+こうして色んなことを覚えていったら、この先どうなるんだろう？
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+マジで数年後はすげえテクニックを身に着けていてもおかしくない。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろは垂らした唾液をこぼさないように胸でペニス全体に塗り広げると、ぐちゅぐちゅといやらしい水音を立てながら俺の目を見た。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2474
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「こういう音を立てるのは？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「エロい」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2475
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ふむ……胸でするのは、結構奥が深い。研究の必要がある」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「じゃあ研究ついでに……胸をこう、左右交互に動かして擦ってみて」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2476
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「交互に……ん。わかった」
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+（おぉぉ……これはなかなか……）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろは俺の反応を逐一確かめながら、一定のリズムで竿を刺激する。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+見せ付けるように膨れ上がる亀頭にまた唾液を垂らして、丹念に擦った。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2477
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「こ、こう？　気持ちいい？　おっぱい」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うん、いい」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2478
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ふふっ、おもしろい顔」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「お、おもしろい？」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2479
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「こうして、ぎゅってして擦ると……ちょっとだけ『あぁっ……』って真剣な顔する」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「それは……まあ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+気持ちいいからな……。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+自分では気づかなかったけど、そんな顔していたのか……。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2480
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「じゃあ、もうちょっとだけ……速くしていい？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うん……」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろはもうコツを掴んできたのか、俺の目をじっと見つめながら、今度は両胸を合わせて上下に動かす。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2481
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「気持ちぃ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+きめ細やかな肌がほどよい摩擦で下から上に向かって竿を絞り上げる。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2482
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ねえ、気持ちぃ？　ねえ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「なんで俺に言わせようとするんだよ」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2483
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ふふっ、あなたも私にエッチなこと言わせようとする」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2484
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「だから、私もする。これでおあいこ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ほう……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+完全に優位を取ったましろ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+今すぐにでもこの顔を思い切り汚してやりたくなった。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2485
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ねえ、どんな気持ち？　ねえねえ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「はいはい気持ちいいです！　……これで満足か？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2486
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「だめ。もっと愛情をこめて言いましょう」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「無茶言うなって……！」
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「くっ……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2487
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あ、またおもしろい顔した。ふふふっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+こいつ……！
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2488
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「おっぱい気持ちいい？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「気持ち、いいよ……」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2489
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ふふっ、そう」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+唾液の膜で完全に覆われ、すべりがよくなったペニスをまた左右交互に胸を動かして勢いよく擦る。
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+手で触られるのもいいけど、やわらかい胸で勢いよくされるのも悪くないな。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「あー、それやばい……」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2490
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「パイズリも、たのしい」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2491
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あなたの顔がよく見える。おちんちんも、よく見える」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「やっべ……」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+嬉しそうな顔でたぷたぷと音を立てながらパイズリされる光景。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+押し寄せる射精感を押しとどめるのが限界だった。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2492
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ピクってした。出そう？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「う、うん……そろそろやばい」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2493
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「じゃあ……もうちょっと速くする」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ま、待って……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺が止めようとしてもましろは聞く耳を持たず、ゆっさゆっさと激しく胸を揺すって竿をしごいた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+さすがに限界が近くなってきた。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2494
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっ、はぁっ……んっしょ、んっしょ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ストップ……！　出ちゃうって……！」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2495
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「聞こえません」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2496
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっしょ、んぅ……ねえ、まだ？　早く出して」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うあぁっ……」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12J
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+じたばたもがく俺を逃がさないように机に押し付けながら、また唾液を垂らす。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺は脚の力が抜けて、ましろにされるがままになっていた。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2497
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ふっ、ふぅっ、ふっ、んっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+やば……出る。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろ……このままだと……顔に……」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2498
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「いい。そのまま受け止めるから」
+SetValidityOfAutomaticWindowDisabling
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「で、出る……！」
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+StartShakingOfWindowSx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12K
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2499
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んぅぅぅ～～～～！？」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+熱い性の奔流がましろの顔や胸元へ降り注ぐ。
+DisableWindowEx
+scene
+EnableWindowEx
+wait
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_12L
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺の顔を見ていたせいで、一瞬なにが起きたのか気づかなかったましろは、ただただ呆然としていた。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2500
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「わぁ……すごい…………精子がいっぱい……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ハァ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「だから言わんこっちゃない……顔がべとべとだぞ？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2501
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あったかぁい……すごい匂い」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろは亀頭の先に残った精液を人差し指でくりくりと広げて遊ぶ。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2502
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「いっぱい出して、おちんちんくてんってなってる。つんつん……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2503
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「わっ……またちょっと硬くなった……！　ぐろい……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ぐろいとか言うなよ……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2504
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「でも可愛い」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「さいですか……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2505
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ふふっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろは再び硬さを取り戻しつつあるペニスを二本指でやさしくしごきながら、俺になにか言いたそうな視線を向けてくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「分かってる。そこに手ついて？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2506
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「後ろからするの？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そ。早く後ろ向きな？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2507
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「は、はい……」
+DisableWindowEx
+scene
+se0
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+BLACK
+EFFECT53
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Cloth-Russle_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2508
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あなたが見えないと……なんか落ち着かない……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「そのほうが興奮するんじゃね？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2509
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「し、しない……と思う」
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+テーブルに手をついて、何度も不安げに振り返るましろ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+さっきはまんまと手玉に取られちまったからな……。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ちょっといじわるしてやるか。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2510
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「……この姿勢であってる？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「あってるよ？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2511
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ふふっ」
+SetValidityOfAutomaticWindowDisabling
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろの尻の割れ目に沿ってペニスをこすり付ける。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2512
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ちょ、ちょっと……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「どうした？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2513
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「入れ……ないの？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「どうしようか？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2514
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+腰を前後に揺らして素股のようなことをしてみる。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2515
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「……て」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「え？　なに？」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2516
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「いいから……入れて……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「指を？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2517
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「違う。おち……んちん」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「聞こえないな。よし、このまま素股で抜くか～」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2518
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「うぅぅぅぅ。おちんちん、入れてください……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「……素直で結構」
+DisableWindowEx
+scene
+EnableWindowEx
+StartShakingOfWindowSx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2519
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んぅぅぅぅぅぅううっ！？」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+パイズリしていたら濡れたのか、ましろの恥部はすんなり俺を受け入れた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+少しきついが竿も十分に湿っていたため、一番奥まですぐに届く。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2520
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ああっ……はぁ……っ！　ち、違う……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2521
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「この前と、全然違う……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「うわっ……すげえぬるぬる……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+すでにましろは脚が震えて立てなくなっている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺は最初からハイペースでましろの膣内へ竿を何度も打ちつけた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「やべえ、ましろの中気持ちよすぎる……！」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2522
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっんぅぅぅっあっ、あんっ、あっ、あっ！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2523
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ま、待って……もう……！　んんんっ！？」
+DisableWindowEx
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ガクっと腰を震わせて全身を脱力させる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「もしかして、入れただけでイった……？」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2524
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「……んっ……あっ……んぅぅっ……んぅぅ……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2525
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ちょっと……休憩しませんか」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「却下します」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2526
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んぅうううっ！？　あっ、あんっ、ま、待って！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+これからもっと激しくなるってのに、こんなところでやめられるかよ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+半泣きですがりつくましろを無視して、一番奥まで力をこめて叩き込んだ。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2527
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ぅぅぅ……きっ、鬼畜ぅっ！　あっあんっ、あっ、あぅっ！　はげっ、ひっ……！」
+DisableWindowEx
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2528
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「もうらめ、ゆるひて……んっ、あっ、あんっ……んぅぅぅ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「まだ痛かった？」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2529
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「痛く、はないけど……！　気持ち、よすぎて……おっきな声、出ちゃう……！」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2530
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっ、んぅっ、あっ、んっ、んぁっ！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2531
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「お願い、やっぱり座る……座らせて……っ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+気持ちいいならこのまま続けよう。
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺を弱弱しく押し返す手を掴んで、強引にテーブルの上に押し付ける。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「まだ全然。これからもっと気持ちよくなるぞ？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2532
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「も、もっと？　無理……！　絶対無理ぃ！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2533
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「前向きでするのと、後ろじゃ……あたるとこ違うの……！　だ、らめっ、んぅぅぅぅっ！？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「なんだましろ、バック気に入ったのか。そうかー、発情期の動物っぽくてエロいもんな」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2534
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ち、ちがっ……！　こんなっ……んくぅっ！？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+また強引に俺を押し返そうとするが、その手もまたテーブルに押し戻す。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2535
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ごめん、なさい……！　もう、いじわるしないから……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「いじわる？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2536
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「おもしろい顔とか、言わないから……！　んっ、可愛い、顔とか、言わないからっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「いいよ。気にしないから」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2537
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「そ、そうじゃなくって……！　あっ、ふぁぁぁっ、おちっ、おちんちん、おなかのなか暴れまわって……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「じゃあやっぱりセックスやめる？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2538
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「やめない……！　やめない、けど、もうちょっと……ゆっくりっ！　んぅぅぅう！」
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+一度動きを止めて、膣内からペニスを引き抜いた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろは呼吸を整えながら、物足りなそうに振り返る。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2539
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「……あ、あれ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「どうした？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2540
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「や、やめない……もっと……したい……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+尻を振っておねだりしてくる。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「やっぱりする？」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2541
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「する……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2542
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「わかった……激しくてもいいから……する……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「よし」
+DisableWindowEx
+scene
+EnableWindowEx
+StartShakingOfWindowSx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2543
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んぅぅぅぅぅぅう～～～～っ！？」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+腕を掴んで目一杯引っ張りながら、再度ましろの中を穿つ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろは口を押さえながら、必死で声を殺していた。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2544
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっ、ふっ、んっぅっ、あっ、んっ、んっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺はその光景に余計に興奮して、前に手を回して引き寄せながら叩き込む。
+DisableWindowEx
+quakeex
+sprite0
+scene
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2545
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「うぅぅぅぅっ、あっ、ああっ、んんっ！　あっすごっ、あっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろの愛液はとめどなく溢れ、しまいには俺の脚にまで滴り落ちてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+さっき射精したばかりなのに、また限界まで中で膨らんで、腰を打ち込むたびにましろは甘い声を漏らす。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2546
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「だ、め……！　気持ちいい……！　ああっ！　気持ちよすぎっ、るよ……！」
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2547
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「セックスっ、こんな、気持ちいいなんてっ、んんぅっ！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2548
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「やめられなくなっちゃう……！　エッチ……何度もしたくなっちゃう……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+スイッチが入ってしまったのか、ましろは自分から腰を突き上げて俺を求めてきた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろっ……！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2549
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あっ、だっ、深いっ……！　んぅっ！？　あっあっああっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+女性を強く意識させる骨盤の曲線。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+密着した身体から伝わってくる体温……甘い香り。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+その全部が俺を激しく突き動かす。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2550
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「だっめっ、イッ、またイク……！」
+DisableWindowEx
+quakeex
+sprite0
+scene
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろ、感度よすぎっ……！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2551
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「わからない、そんなのっわかっ、らない……！　んぅぅぅっ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろ、俺も……もう、イクぞっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+さらに速度を上げて、俺はましろに覆いかぶさりながら力いっぱい叩き込む。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+身体がひとつに溶け合うような感覚に襲われる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+今はただ、目の前でもがくましろの姿だけを見ていた。
+scene
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2552
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あっあっあっ、だめっあっ、またっ、ぁああっ！」
+StartShakingOfWindowSx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「くっ――！！」<
+SetValidityOfAutomaticWindowDisabling
+InitializeSelectedItem
+select
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+中に出す
+外に出す
+_SelectEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2553
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あっ……あぁぁっ！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろの身体を強く抱きしめながら……俺は果てた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+思考が停止する一瞬、それでもしっかりとましろの姿だけを見ていた。
+DisableWindowEx
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2554
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「いっぱい……きてる……んっ、んんっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+一番奥まで差し込まれたペニスの先から、ありったけの精液が注ぎ込まれる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+最後の一滴がなくなるまで、俺は電流のような快感のなかで絶えず腰を振った。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ま、ましろ……ましろぉ！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2555
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「きてる……おなかの中にいっぱい……元気なあなたの精液……！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2556
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「赤ちゃんできちゃう、こんなのできちゃう……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+収縮する膣内にすべての精液が注ぎ込まれ、俺もついに力尽きて脱力した。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろ……それ以上締め付けるなって……！」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2557
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「勝手に、身体が勝手にそうなっちゃう……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「んっ、はぁ……はぁ……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2558
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「はぁ……はぁ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+もう言葉を発する元気もなくなって、俺はましろに抱きついたままゆっくりとペニスを引き抜いた。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13J
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2559
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あっ……こぼれそう……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+愛液で光沢を放つ恥部を手で押さえ、ましろは照れ笑いを浮かべている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+２回目なのにこんなに出るなんて……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+やっぱりましろとは身体の相性がいいんだろうか……？
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろ、キス……しよう」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2560
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ん」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2561
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ちゅっ……んぅ……。ふふっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+『行為のあとはキスをすること』
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+これも、彼女が決めた恋人ルールのひとつだった――。
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+StartShakingOfWindowSx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+COM_END
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13K
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2562
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ああっ、んんぅぅぅぅ～～～～っ！？」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+精液が中で弾ける寸前……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺はペニスを引き抜いて、ましろの尻に向かって思い切り射精した。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13L
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2563
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「あつっ、また、あっ……！　こんなに……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ああぁっ、くっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+こうして彼女を自分の体液で汚す瞬間……。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺はなんだか、自己の征服欲を満たされている気がした。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2564
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっ、んぅぅっ、んっ……ぁぁ……またっ、んっ！」
+DisableWindowEx
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ペニスを引き抜いたにも関わらず、ましろの身体は小さく痙攣し続ける。
+DisableWindowEx
+scene
+bg
+EnableWindowEx
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13L_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2565
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「んっ、あぁっ、こんなに、いっぱい……嬉しい……んっ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「２回目なのに、こんなに出るなんて……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+精液が枯れ、最後はにじみ出るように亀頭の先に白い液体の層ができる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+俺はそれを一滴も余さずましろの尻に塗りつけた。
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2566
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「はぁ……はぁ……んっ……はぁ……」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2567
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「こんなに汚して……綺麗にしないとバレちゃいそう……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+白く汚れた身体を確認してから、ましろはなにか言いたそうな顔で俺を見つめてくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+（あ、そっか……）
+SetValidityOfAutomaticWindowDisabling
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13L
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+主人公（名）
+「ましろ、キス……しよう」
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2568
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ん」
+scene
+SetValidityOfAutomaticWindowDisabling
+voice0
+PrintMessage ましろ
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MAEV_13L_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+MA_2569
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+ましろ
+「ちゅっ……んぅ……。ふふっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+『行為のあとはキスをすること』
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+これも、彼女が決めた恋人ルールのひとつだった――。
+DisableWindowEx
+SoundStopAll
+scene
+clear
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+SoundStopAll
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\550_[scenario]ましろ\masiro_h2.bs5
+_FadeScene
+_BS5HExit
+FButtonWait
+START_H
+LABEL_IN
+LABEL_OUT
+COM_END
+指定されたラベルは見つかりませんでした。

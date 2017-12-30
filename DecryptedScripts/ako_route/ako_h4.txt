@@ -1,0 +1,2067 @@
+jump
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+_BS5HExit
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+WaitForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+CallScriptForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+EnableWindow
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+FButtonWait
+return
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+bgm0
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+mk_bgm_21
+_PlayBGM
+scene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13A
+_DrawScene
+EnableWindowEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+voice0
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2074
+_PlayVoice
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はむ……んっ、んぅ……ちゅる、ん、んっ、んぅぅ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「うぅぅっ……！　い、いきなりか！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2075
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅぱ、んぅ……ぴちゃっ、ちゅる……ふふ、お兄ちゃんの味だぁ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2076
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅるる……ぴちゃっ、んぅ……はむ、んっ、んっ……ぷは、じゅるっ、はむぅっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+突然、チンコを根本まで一気に頬張ってしまう亜子。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+嬉しそうに声を上げ、ゆっくりと顔を動かしていく。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2077
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅ……ちゅ、んぅ……ぷは、れるっ……ちゅ、んむぅ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+舌先で、亀頭をツンツン突っついてくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+少し角度を変えて裏筋を舐めると、また奥までチンコを咥え込んだ。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁ、はぁ……いきなりとか、がっつきすぎだろ、亜子……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2078
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅる、んぅ……はむっ、んっ、お兄ちゃんの、久し振りだよぉ……ちゅる、むぐっ」
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2079
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「れるっ……ん、んぅ……ぷは、どぉ、お兄ちゃん。気持ちいい……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「ああ、めちゃくちゃいい……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2080
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「よかった……ちゅる、んぅ……はむぅ、じゅる……んっ、んっ、んっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ちらりと俺の顔を見て、淫靡な笑みを浮かべる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+角度を変えつつ、チンコをしゃぶるテンポを変えてきた。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2081
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ぺちゃっ、ちゅる……んっ、はむっ、あは、すごぉい、まだ固くなってきてる……」
+SetValidityOfAutomaticWindowDisabling
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2082
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁ、はぁ、んんぅ……ちゅ、じゅる、んむぅ……ぷは、あむっ、んっ、んっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+つーっと裏筋を舌が舐め回してくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+カリのくびれたところを狙い澄ましたように、きゅっと唇で圧迫してきた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「んくっ……う、あっ……亜子、そこいい……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2083
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅ、ちゅ、はむぅ……んっ、んっ、んっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、くぅぅっ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺の反応をうかがいながら、感じるポイントを集中して責めてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+こういうことをするのも久し振りなだけあって、気持ちよすぎる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+このままだと、すぐにでもイってしまいそうだ。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2084
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅぅぅ……ぷはっ、ちゅる……んっ、ちゅるる、ぴちゃっ、あむぅ……んっ、ちゅる」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2085
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はむぅ……ん、ちゅ……ん、んっ……ぷはっ、はぁ、はぁ……」
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2086
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お兄ちゃん、今、イキそうになったでしょ……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「あ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+まるで俺を焦らすかのように、亜子がチンコから口を離してしまった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+唾液がツーと糸を引きながら垂れていく。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2087
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ふふ、先っぽからヌルヌルしたのがいっぱい出てきてる……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2088
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「それに、いつも射精しているみたいに、きゅんってこっちのタマタマが動いてたよ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「ひうっ……んぁぁっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+舌先で亀頭を突っつきながら、手で玉袋を弄り始めた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+焦らされるような感覚に、思わず変な声が漏れてしまう。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁ、はぁ、まったく……この、変態妹め」
+se0
+quakeex
+wait
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Slap_02
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2089
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「きゃんっ、お、お兄ちゃん、いきなり何するの……！？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「人のチンコを弄んだ仕返しだ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「それに、これ見よがしにケツを突き出してる方が悪い」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺の頭の方に下半身を向けた、いわゆるシックスナインの体勢だ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+下着に包まれたお尻が、触ってと言わんばかりに突き出されている。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2090
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「だからって、叩くことないじゃない」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「じゃあ、こっちの方がお望みか？」
+scene
+se0
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Cloth-Russle_03
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+今度は股間の割れ目を、布地越しにゆっくりと指先で撫でた。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2091
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ひゃあんっ、んっ……ふぁ、あっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「いい声だな。そんなに気持ちいいのか？」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2092
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「そこ触られたら、んぅっ……だ、誰だって……あんっ、あ、あっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2093
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「やぁんっ、久し振りだから……んっ、はぁ、はぁ、んぅぅっ、ふぁ、あっ、あっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+割れ目の形を確かめるように指先でまさぐる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+クリトリスを重点的に突っつくと、刺激から逃げるように腰をくねらせた。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2094
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ひぅんっ、んっ……あ、あっ、もう……お兄ちゃんたら、意地悪っ子なんだから！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2095
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「そっちがその気なら、こっちだって……はむっ、んっ、んむぅぅ……」
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くっ、うぁぁあっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+再び、亜子の深いところまでチンコが飲み込まれた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+今度は口内にたっぷりと唾液を溜めて、じゅぶじゅぶと音を立ててしゃぶってくる。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2096
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「じゅる……んっ、んぅっ、ちゅぱ、じゅるるっ、ぴちゃっ、れるっ、んっ、んっ、んっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2097
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁ……れるぅっ、んぅぅ……ちゅ、ぴちゃっ、んんぅ……ぷは、ちゅるっ、んむぅっ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「ちょ、亜子、それは激しい……くぅぅっ……！」
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2098
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅるっ、んぅぅ……ぴちゃっ、はむっ、んっ……はぁ、はぁ、じゅるるっ、んっ、じゅるっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+チンコの根本から、ぎゅっと唇で強く締めつけられた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子の口の中で、舌が音を立てながら絡みついてくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+（くぅっ……とろけそうなくらい、よすぎる……）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+さっきからずっと亜子に手で弄られていたってこともある。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+数日ぶりに亜子に会って、いろいろと溜まっていたこともある。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+（なんとかして気を逸らさないと、すぐにでも搾り取られそうだ……）
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2099
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅ……ちゅ、んっ……ぷは、れるっ……じゅるるるっ、んっ……ぴちゃっ、ちゅ、んっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2100
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ぷは、れるっ……ん、んふふ、お兄ちゃんのオチンチン、お口の中でヒクヒクしてる……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2101
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅぅ……じゅる、んむぅ……ぴちゃ、大きくて、あごが疲れちゃうよ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+そう言いながらも、亜子は丁寧にチンコを舐め回してくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+唾液でヌルヌルになっていることもあって、とろけるように心地よい。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁ、はぁ……亜子……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2102
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅむ、ん、んむぅぅっ……！？　ん、ふっ、んぅぅっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ネットリとしたフェラに対抗するように、俺は亜子の割れ目をグリグリと撫で回す。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+不意打ちのようなそれに、亜子はビクンッと腰を跳ねさせた。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2103
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ん……くぅん、ちゅる……んっ、ぴちゃっ、ちゅる……んっ、んむぅぅっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「どうした亜子……？　股間を弄られて感じてるのか？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「パンツが、ぐっちょりと濡れてきてるぞ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2104
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅるっ、んぅぅぅっ……ぷは、それは、お兄ちゃんが触るから……ひゃぅんっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2105
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んくぅぅっ、あ、あっ……駄目ぇ……それ、気持ちいい……はぁ、はぁ、あむ……んっ、んっ、むぐぅぅぅっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+必死にチンコをしゃぶりながらも、亜子からは甘い吐息が漏れていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+腰が俺を誘うように揺れて、ますますパンツの染みも広がってくる。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2106
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ、んっ、んっ……ちゅぱ、じゅるるっ、んむぅ……ちゅ、んむぅっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くぅっ……！　まだ、激しくなるのか……っ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺からの攻撃にも怯まずに、亜子はストロークを大きく取り始めた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亀頭をチロチロ舐め、カリ首を唇で圧迫してくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+かと思えばそのままチンコを根本まで飲み込み、喉元できゅっと締めつけてくる。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2107
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ、ふっ、じゅるっ、んぅぅぅぅ……ちゅぱ、はむっ、んっ……ふ、んぅぅっ……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2108
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ぴちゅっ、ちゅる、んくぅ……ぷは、じゅるっ、あむぅ……んっ、んっ、んっ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、マズイ……イキそう、だ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺のその呟きに、亜子はかすかに笑みを浮かべたような気がした。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ちらりと俺に視線を向けながら、嬉しそうに目を細める。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+（このままだと、亜子に先にイカされる……）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ならば、こちらはさらに責めるのみ……！
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁ、はぁ、はぁ……亜子、これでどうだ……！」
+se0
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Cloth-Russle_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子のパンツをずらして割れ目をあらわにし、そこに口を付けた。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2109
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ、ふ……むぐぅぅぅぅっ……！？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+舌先で愛液を舐め取るように触れると、亜子の反応は劇的だった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+大きく腰を跳ねさせ、切なげな声を漏らし始める。
+DisableWindowEx
+scene
+bg
+EnableWindowEx
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2110
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「む、ふっ……んぅぅっ、じゅるっ、んむっ、んくぅぅっ……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2111
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅる、んっ……ぷはっ、はぁっ、はぁっ、あんっ、あっ、だめ、お兄ちゃん……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2112
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「そこ、舐めちゃ……ふぁ、あっ、汚い、からぁ……！　今日、まだ……ふぁ、あっ、お風呂、入ってない……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+次から次へと愛液があふれ出す。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+滴る透明の汁は太股を濡らし、俺の顔にまで垂れてきていた。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2113
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅぅっ、ふぁぁっ……！　ひゃっ、あっ……んっ、あぁんっ、気持ちいいよぉ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2114
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ちゅ、んぅぅ……ひぁ、あっ、あんっ、そんなしちゃ……オチンチン、舐められない……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2115
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、はぁっ、はむぅ……んっ、んくぅっ……！　ちゅる、んっ、じゅるる……ぷはっ、んくぅぅっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ヒクヒクと膣口が誘うように震えていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺は舌先を押し当てて、膣内へ押し込む様にグイグイと圧迫する。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2116
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ、ちゅ、んむぅっ……！　ふぁ、あっ、はぁっ、はぁっ、はぁっ……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2117
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「も、もう、怒った……！　ひぅっ、んぅぅっ、私だって、手加減しないんだから……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+荒く息をつき、亜子は意を決した様にそう口にする。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+そして深くチンコを咥えると、思いっきり吸い付いてきた……
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2118
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「じゅるるっ、じゅるっ、ちゅ……んむっ、じゅるるるっ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くっ……う、あぁぁっ！　ちょ、待っ……くぅぅっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+腰が浮き上がるような、強烈な快感が襲いかかってくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+（ヤバイ、これ……亜子の口の中で、溶ける……！）
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2119
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ、ふっ、んっ、んっ、んっ……じゅるるっ、ちゅぱ、はむぅっ、んっ、んっ！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2120
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ぴちゅっ、ちゅるっ、んぶぅっ、んぅっ、じゅるっ、んっ、ふっ、んむぅっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子が俺を勝ち気な表情で見つめてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+素早く、激しく、パンパンに張り詰めたチンコにしゃぶりついてくる。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2121
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「じゅるるっ、んむぅ……ちゅぱ、れるっ、んっ、んっ、ちゅむ……んっ、んっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、くぅ……亜子、それヤバすぎる……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くそっ……こっちだって……！」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13G_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+込み上げてくる射精感を必死に堪えながら、俺も亜子の股間を舐め回す。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+もちろんこれだけでは足りない。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+そう思い、俺は指も使ってクリトリスをまさぐりはじめた。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2122
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ふっ……んっ、ふぐぅぅっ……むぐっ、んぅぅぅっ……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2123
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「じゅるっ、ん……んぅぅっ、んくっ、ふ……んむぅぅっ……ん、ん、んっ、ぷはぁっ！」
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_13H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2124
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「や、あ、あっ、お、お兄ちゃん、やっ、だめ、イッちゃう、それイッちゃうぅぅっ！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2125
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お願い……ひあっ、あっ、ほんと、駄目だからぁぁっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+とうとう亜子は耐えきれなくなったのか、チンコから口を離していた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+切なげな誘うようなエロ顔で、必死になって俺に訴えかけてくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「ぷはっ、はぁ、はぁ……どうした亜子……もう限界なのか？」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2126
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ……！　はぁ、はぁ、お兄ちゃぁん……意地悪、しちゃ、やだぁ……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2127
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「私……ひゃあっ、あっ、あっ、ひぅんっ……！　ふぁ、あ、あっ、もう、駄目なのぉ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+落ち着かない様子で腰を揺らし、息も絶え絶えな様子で俺を見つめてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+膣内から、とめどなく新しい蜜があふれ出してくる。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2128
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お兄ちゃんのオチンチン、欲しい……オマンコに早く入れて欲しいのぉ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁ、はぁ……しかたない奴だな、亜子は」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+だが、俺ももう限界だった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+イタズラのようにチンコを弄り続けられた上に、激しくしゃぶられたのだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+すぐにでも亜子に挿入して、思う存分に貪りたい。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2129
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「あ……でも、待って、お兄ちゃん……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2130
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁ、はぁ、さっきも言ったけど……んっ、私、今日はまだお風呂に入ってないから……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2131
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お兄ちゃん、一緒に……入ろ？　今日は、お風呂でしたい……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「わ、わかった……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+このまますぐにでも突っ込みたいが、それだと一瞬で射精してしまいそうな気もする。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+いったんクールダウンするのは、俺も歓迎だ。
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2132
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁ、はぁ……お兄ちゃん、行こ……？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ゆっくりと体を起こす亜子。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺は亜子と連れ立って、寝てるだろう母ちゃんたちを起こさないよう静かに浴室へ向かう。
+DisableWindowEx
+se0
+scene
+EnableWindowEx
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Bath-Open_02
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ML_BG_17A
+EFFECT53
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2133_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「じゃあ、お兄ちゃん……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「ああ……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2134_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ……ん、んぅぅぅ……ふぁ、あ、あ、あ、あ、あ……！」
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺の上にまたがり、亜子はゆっくりと腰を下ろしてきた。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2135_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「あぁんっ、すごいよぉ……オチンチン、大きい……んぅぅっ、ふぁ、あっ、子宮に届いてるぅ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+先程のシックスナインで、十分過ぎるほどに亜子の中は熱くぬかるんでいた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+何の抵抗もなくチンコは吸い込まれていき、すぐに最奥へと頭をコツンと打ち付ける。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くぅっ……すげぇ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+散々射精せずに焦らされたためか、挿入しただけでイキそうになってしまった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+熱く、ぬるぬるで、強い締めつけ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+なにより俺の上で身悶えてる亜子の姿に、堪らなくなってしまう。
+SetValidityOfAutomaticWindowDisabling
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2136_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、はぁっ、嬉しい……あんっ、んぅ……ふぁ、あ、久し振りのお兄ちゃんだよぉ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2137_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ねぇ、お兄ちゃんは気持ちいい……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「あ、ああ、最高だよ、亜子……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2138_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「オナニーするよりも……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「当たり前だ……。お前のいない三日間、辛くてな」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2139_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「うん、私もぉ……。お兄ちゃん、好き……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くっ……うぉおぉぉ」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+大きく亜子が腰をくねらせ、ヌルヌルの股間から水音が響いた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+浴室内に、亜子の切なげなエロい吐息が木霊する。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2140_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅぅっ……はぁ、はぁ、あんっ、んっ、あっ、あっ、んぅぅ……ふぁ、あっ……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2141_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「どうしよう、お兄ちゃん……んぅっ、気持ちよくて、腰が止まんない……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2142_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ずっと焦らされてたから、かな……？　んっ、あんっ、あっ、あっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+チンコが気持ちいいところに擦れてるのか、同じような動きで腰を押しつけてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+上半身を捻り、脇を見せるようにしながら何度もグリグリとしてくる。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2143_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「くぅんっ……あっ、あんっ、あっ、あっ、あっ……」
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2144_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、んぅぅぅぅっ……ふぁ、あ、オチンチン、いいよぉ……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2145_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ひぁっ、奥にコリコリって擦れるだけで……んぅっ、きゅんってお腹がうずいちゃうの」
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2146_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、はぁっ、お兄ちゃん……お兄ちゃん、お兄ちゃん……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+目を瞑り、込み上げてくる快感を堪えながら、一心不乱に腰を振る。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺の上で踊るたびに、おっぱいもたゆんたゆんと揺れていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ぎゅっと膣内が収縮し、搾り取られるような強い快感が込み上げてきた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ……亜子、腰を動かし過ぎだ……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2147_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「そ、そんなこと、言われてもぉ……ひゃっ、んっ……はぁ、はぁ、はぁ」
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2148_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「気持ちいいのぉ……！　動くなって、言われても……ひぅんっ、無理、だよぉ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くっ……まったく、亜子はしかたないな」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+いくら久し振りとはいえ、さすがに激し過ぎるだろう。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+こんなの、俺だってあまり持たせられるとは思えない。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2149_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、はぁっ、んぅぅぅ……ふぁ、あっ、あんっ、んぅっ、あっ、あっ、あっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2150_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぅんっ……んっ、お兄ちゃん……お兄ちゃんも、動いてぇ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「無茶、言うな……くっ、この状態でどうしろって言うんだ……？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+まるでロデオをしてるかのように、亜子は俺の上で腰を振ってる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+この状態で俺に出来ることと言えば、精々動きにあわせて腰を突き上げることくらいだ。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+（いや……これなら出来るか……？）
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺は手を伸ばすと、揺れてる亜子のおっぱいをムギュッと鷲掴みにする。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2151_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ひぅんっ、んっ……ふぁ、あ、あっ……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2152_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「あんっ、あっ、あっ、お兄ちゃん……ひゃっ、あっ、やぁんっ、んっ、ふぁ、あ、あっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+おっぱいを揉んだだけで、亜子の体がビクンビクンと震えた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+膣内がそれに連動するようにして、強烈にぎゅぅぅと収縮する。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「うおっ……く、うぁぁっ……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2153_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅっ、ふぁ、あ、あっ、やぁんっ、あっ、おっぱい……あんっ、お、お兄ちゃぁん！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2154_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「今、そこ触っちゃ……ふぁ、ああっ、だめぇぇ、感じ過ぎちゃうぅっ、私、変になっちゃうよぉっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+愛液の量が増してきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+汗ばんだ亜子のおっぱいは、吸い付くようにして俺の手によく馴染む。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2155_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ふぁ、あ、あ……あっ、んっ、あっ、あんっ、あ、あ、あ、あっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2156_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お兄ちゃん……お兄ちゃん、お兄ちゃん、お兄ちゃぁんっ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「もう、乳首もビンビンじゃないか……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2157_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「だ、だってぇ……ひぁっ、んっ……お兄ちゃんが、触る、からぁ……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2158_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ひゃ、あっ、んくぅぅぅっ、はぁっ、はぁっ、だ、だめぇ、乳首クリクリしちゃ……ふぁ、あ、あっ……！」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+指先で、ビンビンに固くなった乳首をいじり回す。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+しきりに亜子の膣内が収縮し、チンコを痛いほどに締め付けてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+そうしながらもだらしなく愛液はあふれ出していて、俺の上へとどんどん垂れてきてる。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2159_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ひ、あぁっ、お兄ちゃぁん……ふぁ、あ、や、あ、あっ、おっぱい、だめぇぇっ！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2160_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「そこ、そんなされたらぁ……んぁ、あ、あっ、イッちゃいそうなのぉっ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「いいぞ、亜子……好きなだけイッてくれっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2161_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「いい……の？　あんっ、あっ、あっ、ふぁ、あ、先に、私……ひぅんっ、イッちゃって、いいの……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「ああ……いいぞ、亜子。俺のことはいいから、もうイってしまえ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+そう言うと、俺は今度こそ腰を突き上げた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ずんっずんっと何度も繰り返し、亜子の一番深いところへとチンコが突き刺さっていく。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2162_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぁあぁぁぁっ……！　あんっ、あっ、あっ、やぁっ、奥……奥ぅっ、すごいのぉっ！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2163_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んんぅぅっ、あんっ、や、あ、あっ、あっ、あっ、イッちゃう、イッちゃうぅっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亀頭が子宮をグリグリと穿つ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子は全身に緊張を巡らせながら、ガクガクと震えはじめる。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くっ……ヤバイ、メチャクチャ締まる……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2164_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、はぁっ、お兄ちゃぁん、んぁぁっ、あっ、ふぁ、あ、あっ、も、もうっ、もぉっ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+絶頂する寸前なのか、亜子は大きく目を見開いてとろけそうな表情を浮かべていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+しきりに、チンコを包み込みながら膣内が震えている。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、亜子……俺もそろそろ出すぞっ！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2165_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「う、うんっ……出してぇっっ、お兄ちゃんの精子、欲しいのぉぉっ！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2166_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「あんっ、あっ、あっ、あっ、お兄ちゃぁん、イクぅぅっ、イクのっ、イっちゃう……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「うぅぅぅ……もう、駄目だ……！　亜子っ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+こみ上げてきた射精感に、頭の中が真っ白になっていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+だが、俺は必死に歯を食いしばりながら亜子の中を掻き回す。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2167_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「もう、だめぇぇっ、だめ……だめぇっ、あんっ、あっ、あっ、お兄ちゃん……！」
+StartShakingOfWindowSx
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2168_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「イクぅぅっ、ふぁ、あ、あっ、んぁああぁぁぁぁぁぁぁぁっ！！」<
+DisableWindowEx
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「う……くぅぅっ！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺より先に亜子が絶頂して激しく身悶え始めた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+さざ波のような震えが全身に伝わり、繋がった膣内さえもチンコを包んでうごめいていく。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、あと少し……！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2169_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ふぁ、あ、あっ、あぁぁぁぁぁあぁぁっ！　やぁんっ、あっ、ふぁ、あ、あっ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2170_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ら、らめぇぇっ、今イッてるからぁぁっ！　んぁっ、あっ、ふぁ、お兄ちゃぁん、らめ、らめ、らめぇっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+イッたばかりの亜子の中を、ラストスパートで動き回る。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くっ、限界だ！　亜子、出すぞっ！」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2171_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「イッてぇぇ、お兄ちゃんも出してぇ！　お兄ちゃん……お兄ちゃん、お兄ちゃん……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、く……うぉぉぉぉっ……！！」
+SetValidityOfAutomaticWindowDisabling
+InitializeSelectedItem
+select
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+中に出す
+外に出す
+_SelectEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+深く、亜子の中へとチンコを押しつける。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+そして俺は思いっきり射精していた。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2172_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んくぅぅぅぅぅぅっ……！！　ふぁ、あ、ああっ……！　あぁ、しゅごい、よぉ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2173_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「オマンコの中れぇ……んぁぁっ、あっ、出てるぅ、お兄ちゃんの精子……っ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2174_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、はぁっ、んぅぅぅっ……！　ふぁ、あ、そんなに、ビクンビクンって、暴れちゃ……ふぁ、あ、あ……！」
+DisableWindowEx
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、射精が止まらん……くぅぅ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子の腰を掴みながら、さらに深くまで繋がるように腰を押しつける。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+膣内はあっという間に精液でいっぱいになり、繋がった部分からこぼれていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+うねうねとチンコに絡みつき、最後の一滴まで搾り取ろうとしてくる。
+scene
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2175_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅっ……ふぁ、あっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+ビクリと体を震わせた亜子から、どんどん中出しした精液があふれ出す。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、はぁっ……さすがに激しすぎだ、亜子……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2176_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「だってぇ……久し振り、だったから……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2177_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「それにお兄ちゃんのオチンチン、気持ちいいんだもん……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「それにしたってな……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+あまりに動きが激しくて、完全に搾り取られてしまったような気分だ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+途中から俺もやり返したが、してやられた感が強い。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2178_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んっ……ふふ、お兄ちゃん、そんなに私の中がよかったの……？」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2179_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「何だか、可愛い」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁ、はぁ……あのなぁ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+呼吸を乱す俺を見て、亜子はどこか幸せそうにしている。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2180_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お兄ちゃん、キスして……」
+DisableWindowEx
+se0
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Cloth-Russle_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子はそう言うと、俺に覆い被さるように体を寄せて唇を押しつけてきた。
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+COM_END
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2181_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ひぁっ、んっ……あっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「くぅぅっ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+出す寸前に、俺はなんとか亜子からチンコを引き抜いていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+表に出てくるなり脈打つように暴れ、思いっきり精子を噴き出させた。
+DisableWindowEx
+scene
+wait
+EnableWindowEx
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AKEV_14I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2182_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「あんっ……ふぁ、あっ、熱い……のっ、んくぅぅっ、ふぁ、あ、あ、出て……っ」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2183_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁっ、はぁっ、お兄ちゃんの精液……だぁ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、くぅ……出る……出る……！」
+DisableWindowEx
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+下半身がとろけてしまいそうな快感。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+俺の意志とは関係なく勢いよく精液が飛び出し、亜子の全身を汚していく。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2184_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「んぅぅっ、ふぁ、あ……こんなところまで、飛んできてる……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2185_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁ、はぁ、お兄ちゃんってば、勢い……あんっ、よすぎだよぉ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子は嬉しそうな声を上げながら、全身で精液を受け止めていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+チンコは次第に勢いを無くし、ゆっくりと萎えてうなだれていく。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁっ、はぁっ、はぁっ……ようやく、止まったか……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2186_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「はぁ、はぁ……んっ、すごい……。濃くて、どろどろしてる……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2187_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「いっぱい出たんだね、お兄ちゃん……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「ああ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+今まで散々に焦らされたからだろうか。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+派手に飛び散った精液に、自分でも驚いてしまう。
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2188_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お兄ちゃん、そんなに気持ちよかったんだね……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「はぁ、はぁ……それもそうだが、亜子が激しすぎだ……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2189_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「だってぇ……久し振りの、お兄ちゃんとのエッチだったから」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2190_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「いろいろと我慢できなかったんだもん……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「だからってな……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+あそこまで激しくされると、搾り取られてしまったような気分になる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子を先にイカせられたのが、せめてもの抵抗だろうか……
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2191_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「ふふっ……お兄ちゃんが私の下でよがってたの、すごく可愛かったよ……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+主人公（名）
+「あのな……」
+voice0
+PrintMessage 亜子
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+AK_2192_
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子
+「お兄ちゃん、キス……して？　私、キスしたい……」
+DisableWindowEx
+se0
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+Cloth-Russle_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+亜子はそう言うと、俺に覆い被さるように体を寄せて唇を押しつけてきた。
+bgm0
+DisableWindowEx
+SoundStopAll
+clear
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeBGM
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+SoundStopAll
+F:\BURIKOScriptSystem\MakingLovers\Script\510_[scenario]亜子\ako_h4.bs5
+_FadeScene
+_BS5HExit
+FButtonWait
+LABEL_IN
+LABEL_OUT
+COM_END
+指定されたラベルは見つかりませんでした。

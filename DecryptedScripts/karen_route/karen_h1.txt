@@ -1,0 +1,2355 @@
+jump
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+_BS5HExit
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+WaitForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+CallScriptForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+EnableWindow
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+FButtonWait
+return
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+bgm0
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+mk_bgm_21
+_PlayBGM
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+不安げに俺を見つめる可憐に、優しくキスをする。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2391
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ん……んっ……ちゅぷっ……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2392
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んふぅ……、服、脱ぐね」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「いい、俺がやる」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2393
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「じゃあ……私がアンタの脱がせるね……」
+se0
+scene
+SetValidityOfAutomaticWindowDisabling
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Cloth-Russle_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2394
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+いつも衣服に隠れていた、可憐の柔肌があらわになる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+思っていた通りどこを見ても白くつややかで、引き込まれそうな魅力があった。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2395
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「っ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+（すげえ綺麗……）
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は身体を食い入るように見つめている俺に気づいて、強引にキスをしてくる。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2396
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ちゅぷっ、んっ……んちゅっ……ちゅぷっ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2397
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+舌を差し入れながら、俺は可憐の手を強く握った。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+（こんな風に濃密なキスをするのも初めてだ……）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+やっと俺は可憐と結ばれる、そう思うとますます気持ちが昂っていった。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐……」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2398
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「遠慮しないで？　もっと強引にして？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2399
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「いっぱい触って……好きにしていいから……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐っ……！！」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2400
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んっ……あっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+胸に手を伸ばすと、可憐は驚いて身をすくめる。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2401
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっ……んっ……っ……小さくって、ごめんね……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「俺はこうしてお前に触れられるだけで、嬉しいから」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2402
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん……、んっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は真っ直ぐに俺の目を見つめ、一度たりとも目をそらさない。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+指先に力を加える度に、可憐の表情は目に見えて変わった。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2403
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっ、うん……もっと強く触って？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「強く……」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2404
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んんっ、そう……あっ、んっ……。きゃっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+胸を触りながら、俺は可憐の白い首筋にキスをした。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+そして耳……頬にも唇で触れる。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2405
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んっ……っ、あっ、はぁ……んんっ」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09A_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2406
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「それ……いい……、耳にキスされると、すごい、ドキドキしてくる……っ、んっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+それなら……。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2407
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああっ……んっ、んんっ……ああ、舌……いやらしい音立てて……んぅっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+外側からゆっくりと内側へ、舌先を動かして舐める。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2408
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「気持ちいい……アンタに舐められてるって思うと……っ、どんどん、エッチな気持ちになってくる……っ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「そんな顔されたら……俺だって我慢できないよ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+耳を舐めながら、俺はゆっくりと手を下へ滑らせていった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+太ももの上を触り、徐々に可憐の一番大切な部分へ近づけていく。
+se0
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Cloth-Russle_03
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2409
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「っ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「お前、怖くなるとすぐ黙り込むよな」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2410
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「べ、別に怖くなんて……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「大丈夫、優しくするから。イヤだったら言えよ？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2411
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん……」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2412
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっ……んっ……、はぁ……んくっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+一度も触れたことのない女性器を、薄い布越しに指先で触れる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+すげえ……こんなに柔らかいんだ……。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐、ちょっと湿ってる？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2413
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「……だってぇ……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2414
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「キスしてるだけで私……すぐ濡れてきちゃうから……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「マジで？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2415
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「……っ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+指先に少し力を加えて割れ目を優しくなぞってみる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+どう触っていいのか分からず戸惑いながらも、俺は可憐の表情を見ながらただゆっくりと手を動かした。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2416
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっ、ああっ……あんまりそこばっかり……んっ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「このへん？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2417
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああっ……！　だめ……、あっ……んっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+ここがクリトリスか？
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は俺の腕を掴んで、拗ねたような顔で首を振る。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2418
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ん～……だめぇ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「気持ちいいのか？　ここ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2419
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「……うん」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+じゃあ尚更やめられないだろ。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2420
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああああっ！　待って、待ってっ……んっ！　ああっんっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+ぐりぐりと集中的にクリトリスを刺激する。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐はじたばたともがきながら快感から逃れようとするが、それでも俺はやめなかった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+次第にショーツにいやらしい染みが広がっていく。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2421
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んんんっ、あっ、ああっ……アンタ……触り方が、エロいぃ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「当たり前だろ、俺たちこれからするんだから」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2422
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2423
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「そう……だけどぉ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+背中の下に手を差し入れ、ブラのホックに触れる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+試しに摘んでみると、想像より簡単に外すことができた。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2424
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「なんで……んっ、そんなに簡単に外せるの？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「まあ一応、どうやって留めているかは知ってるし」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2425
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「やっ……あんまりまじまじと見ないで……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「イヤだね。もっとよく見せろ」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2426
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「やだ……あっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+もがく可憐の腕を強く押さえつけ、胸元にキスをする。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は観念したように視線を逸らせて黙り込んだ。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「すげえ……」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2427
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「やだぁ……恥ずかしい……胸……そんな近くで……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+普段完全に隠れている部分なだけあって、一気に興奮してくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+もう膨らんだ股間がズボンを目いっぱい押し上げていた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「れろっ、じゅるっ……んむっ……」
+scene
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2428
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああんっ！　だめ、いきなり乳首っああっ、やだっ、くすぐった……んんっ！」<
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「んっ、なんだよ可憐、よく……じゅるっ、聞き取れねえよ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「じゅるるっ、れろれろっ……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2429
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んんっ……！　だってぇ、アンタが乳首……ああっ！　そう、やってすぐ、舐めっ、るから……！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2430
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はぁぁんっ、ああっ、やばいっ……あっ、だめっ！　胸、ああんっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+シーツを掴んで身もだえながらも、可憐は俺を押し返そうとはしてこなかった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+唾液でべとべとになった乳頭がいやらしく光沢を放っている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺は乳首を責めながら、手探りでショーツを脱がせた。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2431
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ふあぁっ、だめ……だめっ、あっ、がっつきすぎぃ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「力抜けよ、指……入れるぞ」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2432
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「えっ……ええ？」
+scene
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2433
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はぁあああぁぁんっ！！」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+愛液で濡れた指先でも入りにくいほどに、可憐の入り口は狭く収縮している。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+膣内の凹凸が指先から伝わってきて、好奇心に導かれるように俺は手首を返して逆側にも触れてみる。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2434
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああっ、はぁ……アンタの指……あつい……よ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐の中すげえ狭いから、こうして準備しないとな」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2435
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2436
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ねえ、胸も……さっきみたいにして？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ、わかった」
+DisableWindowEx
+scene
+bg
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09I_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+指で内側を擦りながら、胸を思い切り、さっきよりも音を立てて舐める。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「じゅるるっ、ずずっれろっ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2437
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あああっ、ああっ、んっ、はっ、んはぁっ！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2438
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「いいっ、気持ち、いいよ……！　ああっ、襲われてる……アンタが私に夢中になってる……っ！　んああっ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ、可憐……！　可憐！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2439
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「指、また激しくっなって……！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2440
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はぁぁんっ、ああっ、あああっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+少しずつ準備が整い始めている可憐のそこに、さらにもう一本指を重ねて入れてかきまわす。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2441
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああっ、あっ、ふぅっ……！　ああっ！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2442
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んんんぅぅっ！　ああっ、息できなっ、ああっ！　勝手に声……出ちゃうっ！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「じゅっ、ずぅぅぅぅっ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2443
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あああっ、ああああぁぁぁっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+びちゃびちゃとさらに水音が増していく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は乳首を舐める俺の頭を抱き寄せながら、ただ俺に身をゆだねている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐のぬくもりに包まれながら、俺は夢中で胸を舐め続けた。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2444
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「だめ、なんかくるっ……！　はぁぁぁっ！　きちゃうっ！」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09J
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2445
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「とめて、一回とめて！　あっああああっ！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+さっきまでと全然反応が違う。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+まだだ……！
+scene
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09K
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2446
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あああああぁっ！　ああっくるっ！　やめっ、あああああああぁっ！！」<
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+wait
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+力いっぱい俺を抱き寄せながら、可憐は大きく腰を振るわせた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+イったのか……？
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_09L
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2447
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はぁぁ……んぅぅ……、んっ……んっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+ぐったりと身体を脱力させて、寂しそうな目を向けてくる。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2448
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「イかされちゃった……私……手で……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「すげえ思いっきりイったな」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2449
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「……んんんん」
+DisableWindowEx
+scene
+EnableWindowEx
+se0
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+BLACK
+EFFECT53
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Cloth-Russle_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2450
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「アンタばっかり……やだ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「お、おい可憐……！」
+scene
+SetValidityOfAutomaticWindowDisabling
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は強引に俺の上にまたがると、そのまま俺の熱く膨らんだものを握って入り口に押し当ててくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「か、可憐……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2451
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「やっぱり私が奪う。アンタの初めては……私が自らの意思で奪ってやる……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+そうまでして……やっぱお前って、すげえ負けず嫌いで……。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+ホントに……すげえよ、可憐は。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2452
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「いい？　……入れるよ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2453
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ここで……いいんだよねっ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+そして可憐は、本当に自らの意思で腰をゆっくりと落としていった。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2454
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んっ……痛い……っ！　あぁっ……！　くっ……！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2455
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「入ってくる……！　アンタの……が……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「狭い……っ！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2456
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「～～～～っ！　あっ、はぁぁっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は苦痛に耐えながらも、下半身の力を抜いてさらに体重をかけていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+そして……亀頭の先で引っかかっていたなにかが壊れ、ずるりと根元まで竿が飲み込まれた。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2457
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はぁ……っ、はぁ……」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2458
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ほら、見える？　一番奥まで……アンタのが……入ったよ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ……ちゃんと見えてるよ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+ねっとりと熱いひだが竿の全体に絡み付いて、入れただけで恐ろしいくらいの快感が押し寄せてくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+これがセックスの快感なのか。それとも……可憐だからなのか。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2459
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ん……やっぱ……ちょっと痛いね……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐はたいしたことないよと笑ってみせるが、まだ破瓜の痛みで動けなくなっていた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「まさかホントに自分でやっちまうなんてな……」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2460
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ふっ、ふふっ……これでアンタは私のものだよ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ……お前も」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2461
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「友達には死ぬほど痛いって聞いてたんだけど……私はまだ耐えられるレベルだったかな」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「マジで？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+でも、めっちゃ血が……。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2462
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「アンタがいっぱい触って準備してくれたおかげかも」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「それならよかったけど……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2463
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「もっと痛い痛いって泣いたほうがよかった？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「それは俺の心が痛い」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2464
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ふふっ、じゃあもっと好きにしなさいよ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2465
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「私は別に、痛くされても平気だよ？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺の頬を撫でながら、薄っすら涙を浮かべた目で微笑む。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2466
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「たとえ痛いだけの思い出になってもさ……何度思い返しても、痛いことしか思い出さなくてもさ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2467
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「それって、心のどこかにずっとアンタが残るってことだから」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2468
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「初めてのエッチなんだから、すっごい痛いくらいで……いいんだよ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐……」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2469
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「アンタのお腹も……ここだけは結構すべすべだね。他はどこも硬いのに……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐が愛しくてたまらなかった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺のためにそこまでしてくれる女がいるって思うだけで、胸がいっぱいになってくる。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2470
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「それじゃ……動くよ」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2471
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「くっ、こう……？　これであってる？　んっ……あっ、んくっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は手をついて、ゆっくりと腰を動かし始める。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ……気持ちいいよ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2472
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「そっか……うん、じゃあ……もっと動くね」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2473
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んっ……あぁっ、ん……ん……はぁ、はぁ、……んくっ！」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2474
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はあっ……！　ああっ……んっ、ああっ……！　痛っ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐、そんな痛いなら無理すんなって……！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2475
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「いいからっ！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2476
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ねえ、こう？　もっとこうしてほしい、とか、言って？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「っ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐はさらに大きく腰を動かして、俺を刺激していく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+粘膜が擦れて、ぞわぞわと下半身にさらに快感が広がった。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2477
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「お腹の中が……溶けそう……！　アンタのが熱すぎて……もう、ああっ！　わかんなくなるっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐っ！」
+scene
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2478
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「きゃぁああああああああっ～～！？」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺は我慢できなくなり、自らの意思で可憐の奥を突き上げた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は手に力が入れられなくなり、そのまま覆いかぶさってくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「くっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+だめだ……！　気持ちよすぎて……腰が止まらない。
+DisableWindowEx
+scene
+bg
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+パチンパチンと結合部から肌と肌のぶつかる音が響く。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2479
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっ、ああっ、あんっ、あんっ、ら、めっ、んんんぅ゛！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ごめん、俺もう……無理！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2480
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「なにこれっ、ああっ！　痛いだけじゃなくて……っ！　なんか、変なっ！　あああぁっ！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2481
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっ、あっ、ああぁっ、これが、アンタなのっ？　私、全部受け止めてっ、んんっ！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2482
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はぁ、はぁ、ぁああああああっ！　苦しいのに……！　痛くて辛いのに……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2483
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「私嬉しいよぉ……！　やだ……また涙出てきちゃったぁ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐っ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺は腰を動かしながら、胸への愛撫を再開した。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2484
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっ、んっ、胸っ……またっ、あっ！　んんっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐の乳首、すげえ立ってる」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2485
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んっ、んんっ、うん、胸……！　アンタに触られると、いっぱい、感じて……こんなっ、んんっ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「れろ……ん、ずずずっ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2486
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「はぁぁぁぁんっ……！？　ああぁっ、今ぞわぞわって、変なのが……っ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+口をすぼめて乳首だけを刺激する。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐の胸も、手も、どこもすべすべで柔らかい。めっちゃ興奮してくる……！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2487
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「そんなこと、言われたってぇっ、あああっ！　わかんないよっ……！　あっ……！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2488
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「アンタの顔、すっごい、気持ち良さそう……！　これ、そんなにっ、きもちぃの？　ねえ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「当たり前のこと、聞くなって！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2489
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「分かった、もう聞かない……っ！　ただ、このまま動けばいいんでしょ……！」
+StartShakingOfWindowSx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「うあっ！？」<
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は俺の動きに合わせて、体重をかけてきた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+さっきと比べ物にならないくらい大きな音が結合部から鳴り響く。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2490
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うっ！　ふかっいっ、ああっ、だめっ、あああっ……！　声、勝手に出てっ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐、そんなにぎゅってすると……！　気持ちよすぎてすぐ出ちゃうって……！」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2491
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「私なにも、してないっ、んんっ、うっ、勝手にそうなっちゃう……だけっ……だよぉ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+さっき指で触れた膣内の凹凸が今は俺の陰茎を何度も擦り、摩擦をさらに快感へと変えていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺は可憐の腰に手をまわし、さらなる快感を求めて目いっぱい引き寄せた。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2492
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「きゃあああああっ！　だめだめっ、ああぁぁああっ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+強く目をつぶって、ガクッと腰を振るわせる。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2493
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「今、また……ふわってした……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「イキそうなのか？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2494
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「わかんない……けど……さっきみたいな、気持ちいいのがきそうで……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「俺ももうそんなに長く持たないから、もう少し」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2495
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん……最後までいっぱい愛して？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ、もちろん」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2496
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ん……ちゅぷっ、むぷ……うぅ……はむっ……んはぁ……ちゅ……んぅ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+顔を近づけてキスをせがんでくる可憐に、俺も素直に合わせる。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2497
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ぷぁっ、んっ、いいよ……動いて？　私も一緒に……動くから……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「ああ、可憐……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+結合部に広がる可憐の破瓜の薄く濁った鮮血を、今だけは考えないことにした。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+今はただ、気持ちよくなることだけを考えてただ腰を振る。
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2498
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あああっ、そうっ、もっと、私だけを考えて……っ！　アナタには私だけっ！」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2499
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああっ、はぁぁぁっ、んっ、すごっ……んっ……一番奥、何度も当たって……っ！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2500
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「う～～～っ、あぁんっ、もう痛いのわかんらくなってきひゃったぁ……！」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は目を閉じて、夢中で腰の動きをどんどん強くしていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+今俺と可憐は間違いなくひとつだった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐の尻を触りながら、もう片方の手で胸も触る。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「そろそろ、出るぞ……！」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2501
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん、いいよ……！　もっと、好きにしてっ！　んっ、んっ、ああぁっ！　奥、熱ぃ……っ！　んんぅぅぅ！」
+scene
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2502
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んはぁぁあ！　もう、きちゃう！　またくるっ！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「くっ……！」
+scene
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2503
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ひゃぁぁああああああああああ～～～～――――っ！」<
+SetValidityOfAutomaticWindowDisabling
+InitializeSelectedItem
+select
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+中に出す
+外に出す
+_SelectEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+LABEL_IN
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+LABEL_OUT
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10I
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺は最後の最後に可憐を強く抱きしめ、一番奥で果てた。
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2504
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ふぁあああああああああ～～～～～～っ！？」<
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2505
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「出てる……お腹の中……あなたのがっ！　あつっい……いっぱい出て……あ、またっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺はとめどない射精感の中でさらに奥を求めるように、強く強く突きいれ続けた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「う……まだ……！」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2506
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「もう、お腹のなかいっぱいになって……っ、んっ、はぁあんっ、んんぅっ……はぅっ、ああっ」
+DisableWindowEx
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+scene
+wait
+EnableWindowEx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10J
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2507
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「こんなにいっぱい……受け止めきれない……っ！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+収縮する子宮が、さらに射精を促してくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺は余すことなくすべての欲望で可憐を満たしていった。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2508
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ああっ……んっ……はぁっ、んくっ、エッチってこんなに……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「こんなに……なんだ？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2509
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「こんなに……愛されてるって……身体で感じられるんだね……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「そうだな……俺もすげえ、満たされてる感じする」
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10K
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+何度も脈を打ち続ける陰茎がようやく役目を終え、少しずつ力をなくしていく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+そして、さらに愛おしく思う気持ちばかりが膨らんでいった。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「可憐……俺、やっぱお前が好きだ」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2510
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん……私も……」
+DisableWindowEx
+scene
+EnableWindowEx
+se0
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+BLACK
+EFFECT53
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Cloth-Russle_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+倒れこんでくる可憐を抱きしめ、俺はゆっくりと目を閉じる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+彼女の息遣いとぬくもりが鮮明に感じられるこの瞬間が、なにより幸せだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+そしてまた可憐は、俺の耳元でまた何度も何度も『好き』と囁いた。
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+COM_END
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10L
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+射精の瞬間、俺は可憐の中から一気に竿を引き抜いた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+噴出す精液の本流が思い切り可憐の身体を汚していく。
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2512
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んぅぅぅぅぅぅ～～～～～～！？」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は身体中に降りかかる精液に思わず眉を寄せた。
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10M
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2513
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「んっ、くっ……はぁ……はぁ……、え？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2514
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「あっつ、うそ……こんなにたくさん……？」
+DisableWindowEx
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+StartShakingOfWindowSx
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2515
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「きゃぁっ！」<
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+もう一度、今度は可憐が見ている中で精液が噴出した。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「うっ……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2516
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「どんだけ出るのよ……これ……すごっ……あったかぁぃ……。すっごいどろどろぉ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+徐々に勢いを失っていく射精をじっと見つめ、可憐は嬉しそうに微笑んだ。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2517
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「こんなにたくさん出て……そんなに気持ちよかった？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「うん……やばい……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2518
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「やっぱりもう、アンタは私に夢中なんだね……」
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10M_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「……うわ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+引き抜いた陰茎はべっとりと彼女の破瓜の血で染まっている。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+（少し滲む程度だと思ってたけど……結構思いっきり出てるな……）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐は俺に馬乗りになったまま、唖然としている姿を見てくすりと笑った。
+SetValidityOfAutomaticWindowDisabling
+scene
+SetValidityOfAutomaticWindowDisabling
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KAEV_10M
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2519
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「責任、とってよね」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「痛くない……？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2520
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「超痛い」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+どうしよう、なんて返したらいいか分からない。
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2521
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ありがと……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「え……！？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2522
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ちゃんと最後までしてくれて……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2523
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ビビって途中でやめられたらどうしようかと思って」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「お前があれだけ覚悟決めてたんだから、俺だって同じだよ……」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2524
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん……」
+DisableWindowEx
+se0
+scene
+SetBustshotTime
+sprite9
+scene
+bg
+wait
+sprite9
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+Cloth-Russle_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+BLACK
+EFFECT53
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+
+SetBustshotTime
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+black
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+ML_BG_23P_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+倒れこんで正面から抱き合う。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+激しい行為のせいで、ふたりとも汗でぬるぬるになっていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+でも今はなによりも彼女が愛おしい。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「好きだ、可憐」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2525
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「うん……私もだよ？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+主人公（名）
+「こんなときばっかり素直なんだな？」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2526
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「そうだよ？　今は……特別」
+voice0
+PrintMessage 可憐
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+KA_2527
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+可憐
+「ふたりの特別な日なんだから」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+俺たちはそれからしばらく、ただ無言で微笑み合っていた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+お互いの気持ちをすべて理解しているような、そんな言葉のいらない時間。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+握る手から伝わってくるぬくもりだけで、今は満足だった。
+DisableWindowEx
+SoundStopAll
+clear
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+SoundStopAll
+F:\BURIKOScriptSystem\MakingLovers\Script\520_[scenario]可憐\karen_h1.bs5
+_FadeScene
+_BS5HExit
+FButtonWait
+LABEL_IN
+LABEL_OUT
+COM_END
+指定されたラベルは見つかりませんでした。

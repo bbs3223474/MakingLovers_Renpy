@@ -1,0 +1,1630 @@
+jump
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+_BS5HExit
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+WaitForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+CallScriptForFButton
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+EnableWindow
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+FButtonWait
+return
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+F:\BURIKOScriptSystem\MakingLovers\Script\Include\bs5.h
+bgm0
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+mk_bgm_21
+_PlayBGM
+se0
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+Cloth-Russle_03
+_PlaySE
+scene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09A_9
+_DrawScene
+EnableWindowEx
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+voice0
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1591
+_PlayVoice
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「せ、先輩……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「緊張しなくていいぞ？　出来るだけ優しくするから……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1592
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「う、うん……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+ベッドの上で、レイナの体を後ろからまさぐる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+パジャマを脱がし、片方の手でブラジャー越しに胸を揉む。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+目の前にいるレイナが、自分の彼女として足を開いてくれている。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+太ももの付け根も露わになり、その中心にある薄い生地のショーツに俺は無意識にもう片方の手を伸ばしていた。
+SetValidityOfAutomaticWindowDisabling
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1593
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ……あ……はぁ、はぁ……せ、先輩……恥ずかしぃぃ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「力抜け、これからもっと恥ずかしいことするんだぞ？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1594
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「う、うん……わかってるけど……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+緊張か羞恥心か、俺に体をあずける覚悟はあっても、まだ全身を強ばらせているレイナ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺は既に興奮しながら、ゆっくりとレイナのショーツを指でゆっくりと撫で始める。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1595
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、はぁぁっ……ん……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「お前ずいぶんと可愛い声出すんだな」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1596
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「い、いや……そんなこと言わないで先輩、は、恥ずかしい……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+下ネタも余裕なはずのレイナだが、このときばかりはそんな余裕もないらしい。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+当たり前だけど、こうして相手にドキドキしてくれるのは、本当に嬉しい。
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1597
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ、んんっ……あっ、あっ……ン……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「気持ちいいのか？　お前もうここ濡れてきたけど……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1598
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あ、当たり前だし……！　だって私今、先輩にここ指で弄られて……はぁん……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1599
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「い、いじわる……！　先輩のいじわる……！　今ゆっくりわざと指で私のこといじめて……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+ショーツ越しとはいえ、レイナの性器の形が指先にハッキリと伝わってくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+愛液によって湿り気を帯びたこのショーツ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+上下にゆっくり指を動かす度に、ぬるぬるとした摩擦がレイナの感度をより一層引き上げていく。
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1600
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、んっ、んんっ……先輩の指……んんっ、すごくエッチ……ン……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「普段１人じゃしてないのか？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1601
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1602
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「い、言わない……言いたくない……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「してるのか」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1603
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あ、あ、いや……」
+DisableWindowEx
+se0
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+Cloth-Russle_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナの様子を伺いながら、割と苦労して目の前のブラジャーを取り去る。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+ついに眼前に現れたレイナの白い生の胸。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+ほのかに香るレイナの汗と、ショーツから染み出ている愛液の香りが俺の興奮をより一層かき立てる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「レイナ、お前の胸本当に綺麗だな……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「なんか俺、今一瞬だけエロい気持ちとは別に感動してる……」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1604
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あ、あんまり見ないで下さい……本当は電気だって全部消して欲しいくらいなのに……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「いいだろ別に。お前の裸、全部俺だけに見せてくれよ」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+気がつくと自然にレイナの胸を直に揉んでいた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+揉むというと語弊があるかもしれないが、彼女が痛くないように、そしてもっと感じてくれるようにと……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺はそっと壊れ物を扱うように、ゆっくりゆっくりこの手でレイナの胸を揉みしだいてゆく。
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1605
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ、んふぅ……んっ、んんっ……あっ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1606
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「先輩の手、すごく優しいけど……んっ、はぁっ……やっぱり、すごくエッチぃ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「なんかお前、ここに来て若干余裕ありそうだな」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1607
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「う、ううん。ない。余裕なんて全然ないもん……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1608
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「こんな風に先輩の前で足広げて……こんなにいっぱい濡らして……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1609
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「し、しかも今……あぅ……んっ、んんっ……こうして胸までしっかり揉まれちゃってるのにぃ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+思いの外、レイナの羞恥心が強くて驚いた。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺が胸を揉む度に腰をビクビクと震わせる彼女。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+よく見るとショーツはさらに愛液にまみれ、気がつくとその濃い香りが部屋中に充満していた。
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1610
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「せ、せんぱい……せんぱいぃ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「どうした？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1611
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あ、あの……私、急かすわけじゃないんだけど……そ、その……先輩の指……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「こうだろ……？」
+se0
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+kinuzure_11
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1612
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あぁぁッ……！　んっ、ンんっ……！　だ、駄目ぇ……ま、まだそこ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+予告もなしに、レイナのショーツの中に指を滑り込ませる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+指先に感じる、愛液でぐちょぐちょに濡れたレイナの性器。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+濃い糸を引き、いやらしい音と共にその愛液は俺の指をねっとりと包み込む。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1613
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「はぁぁっ、んっ、いやっ、あぁぁっ、せ、せんぱい……ンッ！　んあぁっ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1614
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ゆ、指、先輩の指太いの……あっ、あっ……そこ、気持ちいいところ、んっ、も、もっとぉ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「目に見えて反応が変わったな。お前恥ずかしいんじゃなかったのか？」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1615
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「は、恥ずかしい、恥ずかしいもん……でも……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1616
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「もっと、もっとレイナのここ……弄ってぇ……？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+さらに膣奥から愛液が溢れてくる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+どこか甘えるように、そしてこちらの嗜虐性を刺激してくるようなレイナの台詞。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺は何かに取り憑かれたかのように、夢中でレイナの秘部を愛液と一緒に撫で回す。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1617
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「はぁ……はぁ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1618
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、私……最近ずっと、１人でしてたの……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「１人で？　何を？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+わざと手を止めて、レイナの様子を伺う。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1619
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「な、何をって……お、オナ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1620
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「オナニー……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1621
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「お前、俺のこと考えながらこんなに濡らしてたのか」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1622
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ、あっ、ああぁぁっ……！　だ、だってぇ……！　だって先輩が……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1623
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、はぁぁ……！　んんぅ……！」
+se0
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+scene
+EnableWindowEx
+SetValidityOfAutomaticWindowDisabling
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+Cloth-Russle_04
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+ショーツを脱がせ、ぐちゅぐちゅと本格的にレイナの秘部を愛撫する。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+第一関節まで指をそこに沈めると、まるでそれを待っていたかのように、愛液という透明なヨダレを下の口から垂らすレイナ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+愛液特有の香りと、密室に響く淫靡な音。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナの秘部はまるで俺の指をしゃぶるように、完全に興奮しきってその綺麗な色と肉ヒダを露出させていた。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「な、なんかお前、初めてなのに想像より遙かに感じてないか……！？」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1624
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、わかんない……！　わかんないよ……！　んっ、んっ、ああぁぁっ、そ、そんな、そこ駄目、そこ駄目ぇ……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1625
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ、ンッ、じ、自分でしてるときとは、ぜ、全然違うの……先輩の指、わたしこれ、好きになっちゃいそう……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+クリトリスを人差し指でゆっくりと撫で回す。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+ただ激しく弄るのとは違い、俺はレイナが物欲しそうな顔をするまでゆっくりと焦らす。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺の愛撫にもどかしさを感じるのか、次第にレイナは自らその腰を浮かせてくる。
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1626
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「はぁ、はぁ、んっ、んぐっ……せんぱい、せんぱい……！　気持ちいいよぉ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1627
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、わたしのこと、軽蔑しちゃった……？　こんなにいっぱい、ここ……弄くり回されて……んんっ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1628
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「馬鹿みたいに喘いで、あっ、あっ、あぁぁっ、初めてなのに、私こんなによだれまで垂らしちゃって……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「軽蔑なんてするわけないだろ。レイナが感じてるところ、もっと見せてくれ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「俺はもっと、普段見られないようなお前の姿を見たいんだ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1629
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、んんっ、ふぁぁ……だ、だめだめだめ……！！　せ、せんぱい、わ、わたひそこ、弄られてるだけでイッちゃうよぉ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+既に全身の性感帯で感じているのか、そっと肌を撫でるだけでもビクビクと感じている様子のレイナ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+愛液もさらにあふれ出て、もっともっとと、次の快感を俺の指に求めているような気さえしてくる。
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_09F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1630
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ああぁぁッ！！　んっ、んんっ、だ、ダメぇ……！　んっ、んっ、わ、わらひ、我慢出来ない……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1631
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、先輩……！　もっと、もっとォ……！　んっ、あぁぁ、レイナのここ、いっぱいぐちゅぐちゅしてぇ……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「変態。もうこのまま一回イっちゃえよ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1632
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ふあぁ、ふあぁぁぁっ、い、嫌ぁ……！　ぜ、絶対イキたくない……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1633
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「初めては指じゃなくて、せんぱいのがいい……！　あっ、あっ……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1634
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「だ、だからせんぱい……！　あっ、あっ、うぅぅ……早くレイナのここに……先輩の、ちょうだい……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「わかった。俺ももう我慢出来ない」
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+BLACK
+EFFECT53
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+必死に冷静を装ってはいるが、正直本当にもう限界だった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+トランクスの上からレイナに一度俺の勃起したペニスを握らせる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+先端からは既に大量の我慢汁が。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+初めてにもかかわらず、俺の性器は完全に目の前のレイナと繋がりたい一心でそそり立っていた。
+DisableWindowEx
+scene
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10A
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+お互い抱き合うような形で、ついにレイナの膣内に挿入する。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+熱い愛液に包まれた俺のペニスは、痛みに苦しみつつも受け入れようと必死な、そんなレイナの奥へ奥へと進んでゆく。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1635
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あ、ああッ！！　んぐっ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1636
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「せ、せんぱい……！　せんぱい……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+（こ、これが……女の膣内……！？）
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+油断するとすぐにこの場でイッてしまいそうなほど、レイナの膣内は気持ちよかった。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+ゆっくりと一番奥に到達した途端、レイナは今まで以上にギュッと俺の体にしがみついてくる。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1637
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んッ、あっ、あああぁぁぁァァッ……！！」
+scene
+SetValidityOfAutomaticWindowDisabling
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10B
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1638
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、うっ、ううっ……！　痛ッ……！！　んん……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「だ、大丈夫か……！？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「す、すまん、この体勢でいきなり一気に入るとは思わなかったから……」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10B_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1639
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「う、うん。平気……だから先輩、このままいきなり抜いたりしないで……？」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+明らかに痛みで表情を歪ませているレイナ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+少し体が動くだけで、ギュッと俺のペニスをその膣内で締め付けてくる。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1640
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「はぁはぁ……せ、せんぱいの……もう全部入った……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「ああ全部だ。お前今すごい冷や汗かいてるぞ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1641
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「う、うん、ごめん……なんか、想像以上に痛過ぎて、感覚がおかしくなってるって言うか……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1642
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「幸せなんだけど……んっ、すごくヒリヒリして……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+この様子だとしばらく動かない方が良さそうだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+接合部に目をやると、そこには初めての証であるレイナの鮮血が……
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10C
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1643
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「せ、せんぱい……我慢しないで……？　いっぱい、いっぱい動いていいよ……？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1644
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「私、先輩にこうして抱いてもらいたくてここにいるんだもん……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1645
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「だから変な遠慮して、先輩の思い出に残らないようなエッチには、したくない……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「あ、アホ……！　何したって思い出には残るに決まってるだろ」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「正真正銘の童貞卒業だぞ……？　こんなの俺一生忘れられないに決まってる」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺が動かないものだから、レイナが無理矢理自分の腰を動かそうとする。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+絶対に、まともに喋っていられないほど痛いはずなのに……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナはこうして、どこまでも俺の気持ちをその体で受け入れようとしてくれている。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1646
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「せ、せんぱい……？　本当に我慢なんてしないで……？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1647
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「私、せんぱいにいっぱい愛してもらいたいの。痛いのは当然なんだし、私もっともっと先輩に乱暴にされたい……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1648
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「だって私、先輩のこと本気で好きなんだよ？　大好きな彼に遠慮してもらう初エッチなんて……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1649
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、私……そんなの絶対に嫌なんだから……」
+se0
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+Cloth-Russle_10
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10C_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+そう言うと、再びギュッと抱きついてくるレイナ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+痛みによるものか、それとも故意にやっているのか……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナの膣が、明らかにさっきより俺のペニスを締め付けてくる。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「お、お前……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1650
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ね……？　　ほら早く……？　先輩エッチなんだから、こんなところで遠慮なんてしてたら損しちゃう……」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1651
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ、んあァァッ！！　ああああァァッ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1652
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ひ、ひぐっ……！　せ、せんぱい！！　せんぱい……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+自分の中にあるあふれんばかりの気持ちが爆発する。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+亀頭が完全に膨らみ、生まれて初めて自分の彼女の奥にペニスを突き立てる。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+喘ぎ声と苦痛に歪ませるレイナの表情。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺は最後までこちらの気持ちを尊重してくれるレイナを前に、自分でもビックリしてしまうほど本気で欲情していた。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10D
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「はぁ……！　はぁ……！　れ、レイナ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1653
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、んっ、んぐっ……！！　お、奥まで……！　奥まで先輩のが届いてるのわかるの……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1654
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、私の膣内気持ちいい……！？　先輩だけだよ……？　あっ、あっ、わ、わたしのここで、いっぱい気持ちよくなれるの……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1655
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ、んっ、あっ、ヤバい、何これすごい……！　お、お腹の中……！　んっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナの声、肌、そして性器や愛液さえも、今の俺にとってはすべてが愛おしい。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+何度も突き入れる俺のペニスと、そこからあふれ出るレイナの愛液。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+当然ながら快感よりも痛みの方が圧倒的に上のようで、俺が腰を振るのと同時に、レイナの爪が俺の背中にぐいぐいと食い込んでくるのがわかる。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1656
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、んっ、んあぁぁっ、んぐっ……！　お、大きい……！　先輩の大きいの……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1657
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「こんなに私の体で、興奮してくれるなんて……んっ、んっ、あぁぁっ……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1658
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、わたし……嬉しい……嬉しいよぉ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+腰を振り、レイナの肉壁に亀頭をこすりつける俺。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺は少しでもレイナを安心させるために、時折頭を撫でては彼女と目を合わせるようにする。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10D_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「はぁ、はぁ……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「レイナ……！　お前の膣内、想像以上だ……」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10E_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1659
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「本当……？　んっ、あっ、あっ、あんっ、ちゃんと……気持ちよくなってくれてる……？」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「当たり前だろ……！　はぁ、はぁ、余裕なんてこっちにはまったくないぞ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1660
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ふふっ、良かった……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1661
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「これで全然余裕だ……！　なんて言われちゃったら、わ、私もつまらないし……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1662
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「エッチって、やってみるとすごく体力使うんだね……んっ、あ、ああっ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1663
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「先輩……今すごく汗かいてる……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「そりゃあ、これだけ動いてればな」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「逆に平気な顔してたら、それはそれでめっちゃ怖いだろ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1664
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「う、うん……そうだね……」
+scene
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10E
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+事実全身に汗をかいている俺。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+初めての精神的興奮と肉体的興奮が、これまでにないくらい俺の心拍数を跳ね上げている。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1665
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「今の先輩……必死になってて、何だかすごく可愛く見えるの……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「こっちは、さっきから出ないように必死だからな」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「お前のその、甘ったるい声聞きながらこうして抱いてると、そのまますぐ果ててしまいそうで……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1666
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「我慢しないで……？　わ、私……はぁ、はぁ……先輩になら、中に出してもらっても平気だから……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1667
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「初めてだからって、何でもかんでも我慢しないで欲しいの」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1668
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「私だって女の子なんだよ……？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1669
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「相手がこんなに好きになった人なら、私なんだって許しちゃう……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「お、お前な……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1670
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「それとも……先輩は外に出して私の体、汚したい派……？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1671
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「男の人って、そっちでも興奮するんでしょ……？　んっ、私、先輩にならたくさんこの体……汚してもらいたい……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1672
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「はぁ、はぁ……んっ、ま、まだ痛い……痛いけど幸せ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1673
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ねえ先輩……今夜はこのまま、レイナのこともっと幸せな気持ちにさせてくれる……？」
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1674
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ……！！　ああぁぁっ……！！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+もう無理だ。限界だ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナのか細い声を聞きながら、俺はただ自分がイキたい一心で腰を振る。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+何度も心の中でレイナの名前を叫び、彼女の子宮口をその先端で何度も強くノックする。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1675
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ひあぁぁっ！！　せ、せんぱいっ！　い、いきなり激し……！！　あんっ、あんっ、ンっ……ふあぁぁぁあああ！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1676
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「お、おちんちん……！　お、おぐにズンッ、ズンッてぇぇ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「れ、レイナ……！　愛してる……！　愛してるぞ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1677
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、わらひもっ……！　わらひも愛してるせんぱい……！」
+DisableWindowEx
+scene
+bg
+EnableWindowEx
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10F_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_ScrollBG
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1678
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あんっ！　あんっ！　ンッ！　あっ、あっ、んっ、んあぁっ、あぁぁぁっ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+目の前にいるレイナを強く抱きしめつつ、一心不乱に腰を振る。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+普段の無邪気に笑うレイナも、仕事を楽しむレイナも、そして今日みたいに落ち込んで涙を流すレイナも好きだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+子供だのなんだのって、これまでずっとレイナに対し素直じゃない態度を取っていた自分が恥ずかしくて仕方がない。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+こうして肌を重ね、愛を確かめ合う関係になってやっと……
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺は本当の意味で、レイナを一人の女性として強く意識し、そしてもう俺はこいつに夢中だったんだと自覚する。
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「お前は反則なんだよ……！　良く喋るし、普段からアホなことばっかりしてる癖に……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「いざ気づいた時には、こうして俺にストレートに甘えて来やがって……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1679
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あんっ……！　あんっ……！　んっ、ンっ……！　だ、だってぇ……！　だって先輩のこと……！！　んんっ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1680
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「気がついたらこんなに、好きになってたんだもん……！　あっ、あっ、きっとこれ、私のせいじゃない……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1681
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「先輩がいつも優しくしてくれるのが、あっ、んっ、んんっ……！　わ、悪いんだからぁ……！」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+お互いに抱きしめ合う力が増してゆく。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+俺もレイナも汗を流し、接合部はもう互いの分泌液でぐちょぐちょだ。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+何度も欲望のままに下から突き上げ、奥を押される度にレイナは普段とは違う少し高い声色で鳴いてみせる。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1682
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、あっ、あっ！　は、はげし……んぁあああああああっ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1683
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「せ、せんぱいっ……！　せんぱいっ……！！　あっ、あっ、な、中に……！　中に出して……？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1684
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「わ、わらひ、初めては先輩の中に欲しいのぉ……！！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「レイナ……！　レイナ……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1685
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あ、ああぁぁっ！　おちんちん、はぁはぁ……！　また大きくなって……！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1686
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あんっ、あんっ、んっ、んんっ、ふぁぁっ……！！　ふあぁぁぁぁぁッ！！」
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10F
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「れ、レイナ……！！　ごめん……！　もう……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1687
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「う、うんっ……！　き、来てぇ……！！　あんっ！　あんっ！　このまま、このまま奥にいっぱい……！！　いっぱい……！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1688
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んんっ！！　あっ、あっ、んあっ！　んあぁぁぁぁッ！！」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1689
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「だ、ダメっ！！　わ、わらひ、わらひも……！！」
+wait
+StartShakingOfWindowSx
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+StartShakingOfWindowSx
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1690
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あっ、あっ、あっ……！！　ふぁぁああああぁぁぁぁぁァァァァッ……！！」<
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+sprite0
+scene
+se0
+quakeex
+sprite0
+sprite0
+wait
+se0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+quakeex
+sprite0
+sprite0
+EnableWindowEx
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10G
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_Wait
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+Heartbeat_01
+_PlaySE
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_QuakeEx
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+white
+_DrawSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_FadeSPR
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+生まれて初めて、彼女の膣内で絶頂を迎える。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+自分でも驚くほど、何度も脈動を繰り返す俺のペニス。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+先端から吐き出したその白濁とした液は、レイナの膣内でこれでもかと溢れているのがわかる。
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1691
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「うっ……あァ……せ、せんぱいの……すごい……んっ、んんっ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1692
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「お、お腹の中で……！　ず、ずっと、ビクンビクンって動いてて……！」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「な、なんかその……！　ぐっ……！　まだ止まらないんだが……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1693
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「うん、いいよ……？　そのままたくさん、レイナの中に頂戴……？」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1694
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「あふれるくらいに、んっ、いっぱい出してもらった方が、私もすごく嬉しいもん……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「お、お前……初めてのセックスから、とんでもないこと言うヤツだな……」
+SetValidityOfAutomaticWindowDisabling
+scene
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10H
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1695
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「えへへ……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1696
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「だってそう思うんだから別にいいでしょ……？　私、先輩との赤ちゃんなら……よろこんで産みたいもん……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+そこまで言って、やっと少しレイナの表情からこわばりが消える。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+心なしか、俺に掴まっている手も脱力しているようにも感じる。
+scene
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+REEV_10H_9
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「はぁはぁ……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「レイナ、俺……本当に気持ちよかった……というか今もずっと気持ちいい……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「これがセックスなんだな。なんか俺、お前のおかげで妙な感動に包まれてるぞ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1697
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「うん……私も……私も同じ気持ち……」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1698
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「ずっと誰に捧げるんだろうと思ってた私の初めて……今夜こうして、先輩にもらってもらえて、すごく嬉しいの……」
+SetValidityOfAutomaticWindowDisabling
+DisableWindowEx
+scene
+EnableWindowEx
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+BLACK
+EFFECT04
+_DrawScene
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1699
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「先輩……好き……」
+PrintMessage 主人公（名）
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+主人公（名）
+「俺もだよ。レイナ」
+voice0
+PrintMessage レイナ
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+RE_1700
+_PlayVoice
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+レイナ
+「んっ、ちゅっ……んんっ……」
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+そのまましばらく、エッチ後の余韻に浸る俺たち二人。
+PrintMessage 
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+キスをしている最中も、俺はずっとレイナの頭を何度もゆっくりと撫でていた。
+SoundStopAll
+DisableWindowEx
+clear
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+SoundStopAll
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+F:\BURIKOScriptSystem\MakingLovers\Script\540_[scenario]レイナ\reina_h1.bs5
+_FadeScene
+_BS5HExit
+FButtonWait
+COM_END
+指定されたラベルは見つかりませんでした。
