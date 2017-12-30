@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" /> 
+<meta name="Author" content="jingchangjiang1988@163.com">
+<meta name="Date" content="2015-04-13 22:43:49" />
+<meta name="Revised" content="jingchangjiang1988@163.com,2015-04-16 22:50:46">
+<meta name="Generator" content="Notepad++ V5.9">
+<meta name="Keywords" content="buriko,ren'py,代码,转换" />
+<meta name="Description" content="buriko转为ren'py代码" />
+<meta name="Copyright" content="Copyleft" /> 
+<meta name="Robots" content="all" />
+<title>buriko转为ren'py代码</title>
+<!-- link rel="shortcut icon" href="favicon.ico" type="image/x-icon" / -->
+<script language="javascript" type="text/javascript" src="buriko2rpyLib.js" ></script>
+<style>
+input{
+	font-size:20px;
+}
+</style>
+</head>
+<body style="text-align:center;">
+	<h1>buriko转为ren'py代码</h1>
+	<form name="form1" id="form1">
+		<table align="center" valign="middle" border="0"><tr>
+			<td><textarea cols="60" rows="30" name="source" id="source" wrap="off"></textarea></td>
+			<td>
+				<input type="button" value="→→" onclick="trans()" />
+			<td>
+			<td><textarea cols="60" rows="30" name="target" id="target" wrap="off"></textarea></td>
+		</tr></table>
+	</form>
+	<script language="javascript" type="text/javascript">
+	<!--////
+		var src=document.forms.form1.source;
+		var tgt=document.forms.form1.target;
+		var lastScrollTop=tgt.scrollTop;
+		function trans(){
+			var from=src.value;
+			var result=doTrans(from);
+			if(result.success){
+				tgt.value=result.text;
+			}else{
+				tgt.value="[" + result.errorNo + "]" + result.msg;
+				return;
+			}
+			var srcLineHeight=Math.round(src.scrollHeight/result.srcLen);
+			var tgtLineHeight=Math.round(tgt.scrollHeight/result.resultLen);
+			tgt.onscroll=function(e){
+				var top=result.t2sMap[Math.round(tgt.scrollTop/tgtLineHeight)]*srcLineHeight;
+				if(src.scrollTop!=top){
+					src.scrollTop=top;
+				}
+				if(src.scrollLeft!=tgt.scrollLeft){
+					src.scrollLeft=tgt.scrollLeft;
+				}
+			}
+			src.onscroll=function(e){
+				var top=result.s2tMap[Math.round(src.scrollTop/srcLineHeight)]*tgtLineHeight;
+				if(tgt.scrollTop!=top){
+					tgt.scrollTop=top;
+				}
+				if(tgt.scrollLeft!=src.scrollLeft){
+					tgt.scrollLeft=src.scrollLeft;
+				}
+			}
+		}
+		//trans();//加载后直接运行
+	////-->
+	</script>
+</body>
+</html>

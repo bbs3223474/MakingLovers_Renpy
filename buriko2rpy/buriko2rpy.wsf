@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package>
+	<comment>buriko to ren'py</comment>
+	<job id="buriko2rpy">
+	   <script language="VBScript">
+		Const CODE = "utf-8"
+	   </script>
+	   <script language="JScript" src="buriko2rpyLib.js" charset="UTF-8"></script>
+	   <script language="VBScript"><![CDATA[
+			Function Trans(of)  
+				Dim ADOStrm : Set ADOStrm = CreateObject("ADODB.Stream")  
+				ADOStrm.Type = 2  
+				ADOStrm.Mode = 3  
+				ADOStrm.CharSet = CODE
+				ADOStrm.Open  
+				ADOStrm.LoadFromFile of.Path
+				Dim data:set data= doTrans(ADOStrm.ReadText)
+				If not data.success Then 
+					WScript.Echo "[ERROR][" & data.errorNo & "]" & data.msg
+					ADOStrm.Close
+					set ADOStrm = Nothing
+					Err.Raise 13
+					Exit Function
+				End If
+				ADOStrm.Position = 0
+				ADOStrm.WriteText data.text
+				ADOStrm.SetEOS
+				Dim outFile : outFile = of.ParentFolder.Path & "\" & "[parse]" & of.Name
+				ADOStrm.SaveToFile outFile, 2  
+				ADOStrm.Close
+				set ADOStrm = Nothing
+				Trans = outFile
+			End Function
+	   
+			Set objArgs = WScript.Arguments
+			if objArgs.Count <> 1 Then
+				WScript.Echo  "Usage:" & vbcrlf & "cscript "& Wscript.ScriptName &" fileName " & vbcrlf
+			Else
+				Dim fso : set fso = CreateObject("Scripting.FileSystemObject")
+				Dim of : set of = fso.GetFile(objArgs(0))
+				WScript.Echo  "[parse]" & of.Path
+				On Error Resume Next
+				WScript.Echo  "[output]" & Trans(of)
+				If Err.Number <> 0 Then
+					WScript.Echo  "[ERROR][" & Err.Number & "]" & Err.Description
+				Else
+					WScript.Echo  "[Parese OK!!]"
+				End If
+			End If
+		']]></script>
+	</job>
+</package>

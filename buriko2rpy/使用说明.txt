@@ -1,0 +1,5 @@
+1、通过网页转换（适用于所有平台）：双击buriko2rpy.html，在左侧文本框中粘贴源文本，点击“→→”按钮，转换后内容显示在右侧文本框，两侧的滚动条有同步绑定功能。
+2、单个文件拖拽（只适用与windows平台）：将要转换的文本拖拽到buriko2rpy.wsf上。默认编码utf-8，其他编码转换请用记事本打开buriko2rpy.wsf，并修改其中的“Const CODE = "utf-8"”一行。
+3、批量转换（只适用与windows平台）：双击parseAllTxt.bat，该脚本会自动递归查找当前文件夹下的所有txt格式的文档，并进行转换。默认编码utf-8，其他编码转换请用记事本打开buriko2rpy.wsf，并修改其中的“Const CODE = "utf-8"”一行。如果要修改递归遍历所匹配的文件，请用记事本打开parseAllTxt.bat文件，并将“for /R %%1 in  (*.txt)” 一行中的 “*.txt” 修改为其他通配文件名（采用windows文件名通配规则）。
+
+所有替换规则都存在于buriko2rpyLib.js文件中。
