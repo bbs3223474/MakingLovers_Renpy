@@ -1,0 +1,82 @@
+	load_base();
+	push_word(0x110);
+	add();
+	store_base();
+	push_base_offset(0x108);
+	move_arg(0x2);
+	push_base_offset(0x10c);
+	move_arg(0x2);
+	push_base_offset(0x110);
+	move_arg(0x2);
+	push_byte(0x0);
+	push_offset(L00099);
+	jc(0x0);
+	push_byte(0x0);
+	push_offset(L00062);
+	jc(0x1);
+	push_string("sysprg.arc");
+	push_string("builddata._bp");
+	sys1(0x40);
+	push_base_offset(0x4);
+	move_arg(0x2);
+	push_base_offset(0x10c);
+	load(0x2);
+	push_string("data04xxx.arc");
+	cmd_69();
+	push_offset(L00051);
+	jc(0x1);
+	push_base_offset(0x108);
+	load(0x2);
+	push_byte(0x0);
+	push_byte(0xd);
+	push_base_offset(0x4);
+	load(0x2);
+	call();
+	push_offset(L00060);
+	jmp();
+
+L00051:
+	push_base_offset(0x108);
+	load(0x2);
+	push_byte(0x0);
+	push_byte(0xc);
+	push_base_offset(0x4);
+	load(0x2);
+	call();
+
+L00060:
+	sys1(0x41);
+
+L00062:
+	push_base_offset(0x10c);
+	load(0x2);
+	push_base_offset(0x108);
+	load(0x2);
+	sys1(0x34);
+	push_offset(L00088);
+	jc(0x0);
+	push_base_offset(0x108);
+	load(0x2);
+	push_base_offset(0x104);
+	push_string("指定されたファイル [ %s ] は存在しません");
+	cmd_6f();
+	push_base_offset(0x104);
+	usr1(0x80);
+	push_offset(L00099);
+	jmp();
+
+L00088:
+	push_base_offset(0x110);
+	load(0x2);
+	push_base_offset(0x10c);
+	load(0x2);
+	push_base_offset(0x108);
+	load(0x2);
+	snd1(0x20);
+
+L00099:
+	load_base();
+	push_word(0x110);
+	sub();
+	store_base();
+	ret();

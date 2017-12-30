@@ -1,3 +1,4 @@
 *.ogg
 *.png
 *.mpg
+__pycache__
