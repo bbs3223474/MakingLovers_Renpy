@@ -59,3 +59,8 @@ Simply notices:
 <p>7、本项目目前并未取得实质性进展，因为原作采用立绘图像分离的做法（身体、面部表情分离），暂未拥有很好的方法将立绘重新合并或在Ren'py中运用坐标系进行实时整合。</p>
 <p>7. None of the substantial progress has been made on this project due to the separation character images (separated body and facial expression images). For now there is no good way to re-combine them or using coordinate function to combine in Ren'py real time.</p>
 <p>7. 本プロジェクトは未だに実質的な進展はしていません。これは原作の中で立ち絵ファイルが分離しているのため（ボディー、表情ファイルが分離）、それらを再びコンバインするか、座標関数を使ってRen'pyにリアルタイムで統合するのにあまりいい方法がまだ見つかっていません。</p>
+
+***
+<p>8、原作封包文件提取原先采用AE-VN Tools进行操作，但后来发现因BURIKO General Interpreter引擎有一些更新，导致AE无法正常提取全部封包的内容，于是改用fxck BGI v2.4进行提取。所有位图文件已经自动添加.png后缀。</p>
+<p>8. Archives was originally extracted by AE-VN Tools, but I discovered AE cannot extract some of them due to the tiny update of BURIKO General Interpreter engine. So I finally extracted them by fxck BGI v2.4 tool. All bitmaps were added by .png suffix.</p>
+<p>8. 原作のアーカイブをAE-VN Toolsで抽出してみたんですが、BURIKO General Interpreterは少しだけ更新があって、一部の抽出が失敗した故、改めてfxck BGI v2.4でやりました。全ての画像ファイルは.png拡張子を添付されました。</p>
