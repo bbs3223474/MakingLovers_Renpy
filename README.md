@@ -46,7 +46,7 @@ Simply notices:
 
 <p>5、Ren'py引擎基于Python语言编写，虽然游戏脚本中很少涉及到真正的Python语言，但如果你有一定该语言的编程知识的话，某些复杂内容的理解会更轻松一些。该引擎脚本的编写教程请参见官方文档。</p>
 <p>5. Ren'py engine was based on Python, you will find yourself easier to understand some complicated contents of it despite there are few actual python languages in the game scripts. Please view Ren'py official documents for engine script's tutorials.</p>
-<p>5. Ren'pyはPython言語で作ったものです。ゲームスクリプトではわずかなPython言語しか見えないですが、その言語が少しでも習ったら複雑の内容を理解するのに役に立てます。スクリプト作成のチュートリアルは公式ドキュメントで得られます。</p>
+<p>5. Ren'pyはPython言語で作ったものです。ゲームスクリプトではわずかなPython言語しか見えないですが、それを少しでも習ったら複雑の内容を理解するのに役に立ちます。スクリプト作成のチュートリアルは公式ドキュメントで得られます。</p>
 
 ***
 
