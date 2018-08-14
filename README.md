@@ -15,14 +15,14 @@ I tried to make this transplanting project of SMEE's new game under spare time b
 
 一些简要的注意事项：
 ----
-Simply notices:
+Simple notices:
 ----
 簡単な注意事項：
 ----
 
 <p>1、本项目所涉及的开发，包括封包解压、脚本解密、资源文件使用、和内容修改均未获得SMEE公司及相关人员的参与和许可。本项目仅用于学习，严禁以任何形式重新加密、打包、二次出售！</p>
 <p>1. The development of this project including archive unpacking, script decryption, resource using, and content modification were not being participated and approved by SMEE corporation and its staff. This project is only for study purpose. Any sort of re-encryption, repack and resell were STRICTLY FORBIDDEN!</p>
-<p>1. 本プロジェクトに関する開発、及びアーカイブの抽出、スクリプトの明文化、リソースファイフの使用、ゲーム内容の改ざんはSMEE社とその関係者の参加と許可を得られていません。本プロジェクトは勉強のためだけですので、いかなる形の再暗号化、リパーク、再発売行為は絶対禁止されています。</p>
+<p>1. 本プロジェクトに関する開発、及びアーカイブの抽出、スクリプトの明文化、リソースファイフの使用、ゲーム内容の改ざんはSMEE社とその関係者の参加と許可を得られていません。本プロジェクトは勉強のためだけですので、いかなる形の再暗号化、リパック、再発売行為は絶対禁止されています。</p>
 
 ***
 
